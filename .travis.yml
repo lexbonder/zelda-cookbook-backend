@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - node
+services:
+  - postgresql
+before_script:
+  - psql -c 'create database zelda_cookbook_test;' -U postgres
+deploy:
+  provider: heroku
+  app: zelda-cookbook-backend
+  skip_cleanup: true
