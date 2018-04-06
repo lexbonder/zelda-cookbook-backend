@@ -1,0 +1,767 @@
+[
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": null,
+    "hearts": "0.25",
+    "name": "Acorn",
+    "resale": "2",
+    "type": "Seasoning"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "0.5",
+    "name": "Apple",
+    "resale": "3",
+    "type": "Fruit"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Tough",
+    "hearts": "0",
+    "name": "Armoranth",
+    "resale": "5",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Tough",
+    "hearts": "1",
+    "name": "Armored Carp",
+    "resale": "10",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Tough",
+    "hearts": "1",
+    "name": "Armored Porgy",
+    "resale": "10",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Hearty",
+    "hearts": "4",
+    "name": "Big Hearty Radish",
+    "resale": "15",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Hearty",
+    "hearts": "3",
+    "name": "Big Hearty Truffle",
+    "resale": "15",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "1:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Bird Egg",
+    "resale": "3",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "2:00",
+    "effect": "Sneaky",
+    "hearts": "0",
+    "name": "Blue Nightshade",
+    "resale": "4",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Energizing",
+    "hearts": "1",
+    "name": "Bright-eyed Crab",
+    "resale": "10",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "1:20",
+    "effect": null,
+    "hearts": "0",
+    "name": "Cane Sugar",
+    "resale": "3",
+    "type": "Seasoning"
+  },
+  {
+    "category": "food",
+    "duration": "0:40",
+    "effect": null,
+    "hearts": "0.25",
+    "name": "Chickaloo Tree Nut",
+    "resale": "3",
+    "type": "Seasoning"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Chilly",
+    "hearts": "1",
+    "name": "Chillfin Trout",
+    "resale": "6",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Chilly",
+    "hearts": "0.5",
+    "name": "Chillshroom",
+    "resale": "4",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Chilly",
+    "hearts": "0",
+    "name": "Cool Saffina",
+    "resale": "3",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Energizing",
+    "hearts": "2",
+    "name": "Courser Bee Honey",
+    "resale": "10",
+    "type": "Seasoning"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Electro",
+    "hearts": "0",
+    "name": "Electric Saffina",
+    "resale": "3",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Enduring",
+    "hearts": "2",
+    "name": "Endura Carrot",
+    "resale": "30",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Enduring",
+    "hearts": "1",
+    "name": "Endura Shroom",
+    "resale": "6",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "5",
+    "name": "Fairy",
+    "resale": "2",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "1:00",
+    "effect": "Hasty",
+    "hearts": "0.5",
+    "name": "Fleet-Lotus Seeds",
+    "resale": "5",
+    "type": "Fruit"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Tough",
+    "hearts": "0.5",
+    "name": "Fortified Pumpkin",
+    "resale": "5",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": "1:20",
+    "effect": null,
+    "hearts": "0.5",
+    "name": "Fresh Milk",
+    "resale": "3",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "1:20",
+    "effect": null,
+    "hearts": "0",
+    "name": "Goat Butter",
+    "resale": "3",
+    "type": "Seasoning"
+  },
+  {
+    "category": "food",
+    "duration": "1:30",
+    "effect": null,
+    "hearts": "0",
+    "name": "Goron Spice",
+    "resale": "4",
+    "type": "Seasoning"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Hearty",
+    "hearts": "2",
+    "name": "Hearty Bass",
+    "resale": "18",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Hearty",
+    "hearts": "3",
+    "name": "Hearty Blueshell Snail",
+    "resale": "15",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Hearty",
+    "hearts": "3",
+    "name": "Hearty Durian",
+    "resale": "15",
+    "type": "Fruit"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Hearty",
+    "hearts": "2.5",
+    "name": "Hearty Radish",
+    "resale": "8",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Hearty",
+    "hearts": "4",
+    "name": "Hearty Salmon",
+    "resale": "10",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Hearty",
+    "hearts": "2",
+    "name": "Hearty Truffle",
+    "resale": "6",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Chilly",
+    "hearts": "0.5",
+    "name": "Hydromelon",
+    "resale": "4",
+    "type": "Fruit"
+  },
+  {
+    "category": "food",
+    "duration": "1:00",
+    "effect": null,
+    "hearts": "1",
+    "name": "Hylian Rice",
+    "resale": "3",
+    "type": "Seasoning"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "0.5",
+    "name": "Hylian Shroom",
+    "resale": "3",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Hyrule Bass",
+    "resale": "6",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Hyrule Herb",
+    "resale": "3",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Tough",
+    "hearts": "1",
+    "name": "Ironshell Crab",
+    "resale": "8",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Tough",
+    "hearts": "0.5",
+    "name": "Ironshroom",
+    "resale": "5",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Mighty",
+    "hearts": "0.5",
+    "name": "Mighty Bananas",
+    "resale": "5",
+    "type": "Fruit"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Mighty",
+    "hearts": "1",
+    "name": "Mighty Carp",
+    "resale": "10",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Mighty",
+    "hearts": "1",
+    "name": "Mighty Porgy",
+    "resale": "10",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Mighty",
+    "hearts": "0",
+    "name": "Mighty Thistle",
+    "resale": "5",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": "1/10/30:00",
+    "effect": "",
+    "hearts": "",
+    "name": "Monster Extract",
+    "resale": "3",
+    "type": "Other"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Palm Fruit",
+    "resale": "4",
+    "type": "Fruit"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Raw Bird Drumstick",
+    "resale": "8",
+    "type": "Meat"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "1.5",
+    "name": "Raw Bird Thigh",
+    "resale": "15",
+    "type": "Meat"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "3",
+    "name": "Raw Gourmet Meat",
+    "resale": "35",
+    "type": "Meat"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Raw Meat",
+    "resale": "8",
+    "type": "Meat"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "1.5",
+    "name": "Raw Prime Meat",
+    "resale": "15",
+    "type": "Meat"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "3",
+    "name": "Raw Whole Bird",
+    "resale": "35",
+    "type": "Meat"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Mighty",
+    "hearts": "1",
+    "name": "Razorclaw Crab",
+    "resale": "8",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "0:50",
+    "effect": "Mighty",
+    "hearts": "0.5",
+    "name": "Razorshroom",
+    "resale": "5",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "1:00",
+    "effect": null,
+    "hearts": "0",
+    "name": "Rock Salt",
+    "resale": "2",
+    "type": "Seasoning"
+  },
+  {
+    "category": "food",
+    "duration": "1:00",
+    "effect": "Hasty",
+    "hearts": "0.5",
+    "name": "Rushroom",
+    "resale": "3",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "2:00",
+    "effect": "Sneaky",
+    "hearts": "1",
+    "name": "Silent Princess",
+    "resale": "10",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": "2:00",
+    "effect": "Sneaky",
+    "hearts": "0.5",
+    "name": "Silent Shroom",
+    "resale": "3",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Spicy",
+    "hearts": "1",
+    "name": "Sizzlefin Trout",
+    "resale": "6",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "1",
+    "name": "Sanke Carp",
+    "resale": "20",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "2:00",
+    "effect": "Sneaky",
+    "hearts": "1",
+    "name": "Sneaky River Snail",
+    "resale": "6",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Spicy",
+    "hearts": "0.5",
+    "name": "Spicy Pepper",
+    "resale": "3",
+    "type": "Fruit"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Energizing",
+    "hearts": "0.5",
+    "name": "Stamella Shroom",
+    "resale": "5",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": null,
+    "effect": "Energizing",
+    "hearts": "1",
+    "name": "Staminoka Bass",
+    "resale": "18",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "",
+    "name": "Star Fragment",
+    "resale": "300",
+    "type": "Other"
+  },
+  {
+    "category": "food",
+    "duration": "2:00",
+    "effect": "Sneaky",
+    "hearts": "1",
+    "name": "Stealthfin Trout",
+    "resale": "10",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Spicy",
+    "hearts": "0.5",
+    "name": "Sunshroom",
+    "resale": "4",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "1:00",
+    "effect": "Hasty",
+    "hearts": "0.5",
+    "name": "Swift Carrot",
+    "resale": "4",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": "1:00",
+    "effect": "Hasty",
+    "hearts": "0",
+    "name": "Swift Violet",
+    "resale": "10",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": "1:00",
+    "effect": null,
+    "hearts": "1",
+    "name": "Tabantha Wheat",
+    "resale": "3",
+    "type": "Seasoning"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Electro",
+    "hearts": "1",
+    "name": "Voltfin Trout",
+    "resale": "6",
+    "type": "Seafood"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Electro",
+    "hearts": "0.5",
+    "name": "Voltfruit",
+    "resale": "4",
+    "type": "Fruit"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Spicy",
+    "hearts": "0",
+    "name": "Warm Saffina",
+    "resale": "3",
+    "type": "Green"
+  },
+  {
+    "category": "food",
+    "duration": "0:30",
+    "effect": null,
+    "hearts": "0.5",
+    "name": "Wildberry",
+    "resale": "3",
+    "type": "Fruit"
+  },
+  {
+    "category": "food",
+    "duration": "2:30",
+    "effect": "Electro",
+    "hearts": "0.5",
+    "name": "Zapshroom",
+    "resale": "4",
+    "type": "Mushroom"
+  },
+  {
+    "category": "food",
+    "duration": "2:00",
+    "effect": null,
+    "hearts": "0.625",
+    "name": "Dinraal’s Scale",
+    "resale": "1",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "4:00",
+    "effect": null,
+    "hearts": "1",
+    "name": "Dinraal’s Claw",
+    "resale": "1",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "11:00",
+    "effect": null,
+    "hearts": "1.25",
+    "name": "Shard of Dinraal’s Fang",
+    "resale": "1",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "30:00",
+    "effect": null,
+    "hearts": "1.875",
+    "name": "Shard of Dinraal’s Horn",
+    "resale": "1",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "2:00",
+    "effect": null,
+    "hearts": "0.625",
+    "name": "Naydra’s Scale",
+    "resale": "1",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "4:00",
+    "effect": null,
+    "hearts": "1",
+    "name": "Naydra’s Claw",
+    "resale": "1",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "11:00",
+    "effect": null,
+    "hearts": "1.25",
+    "name": "Shard of Naydra’s Fang",
+    "resale": "1",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "30:00",
+    "effect": null,
+    "hearts": "1.875",
+    "name": "Shard of Naydra’s Horn",
+    "resale": "1",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "2:00",
+    "effect": null,
+    "hearts": "0.625",
+    "name": "Farosh’s Scale",
+    "resale": "150",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "4:00",
+    "effect": null,
+    "hearts": "1",
+    "name": "Farosh’s Claw",
+    "resale": "1",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "11:00",
+    "effect": null,
+    "hearts": "1.25",
+    "name": "Shard of Farosh’s Fang",
+    "resale": "250",
+    "type": "Filler"
+  },
+  {
+    "category": "food",
+    "duration": "30:00",
+    "effect": null,
+    "hearts": "1.875",
+    "name": "Shard of Farosh’s Horn",
+    "resale": "300",
+    "type": "Filler"
+  }
+]
