@@ -82,7 +82,7 @@ exports.seed = (knex, Promise) =>
             knex('users').insert(
               [
                 {
-                  userName: 'ganondorf ',
+                  userName: 'ganondorf',
                   password: 'getTheTriforce',
                 },
               ],
