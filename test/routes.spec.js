@@ -12,7 +12,7 @@ const jwt = require('jsonwebtoken');
 chai.use(chaiHttp);
 
 describe('API routes', () => {
-  const token = jwt.sign({ userName: 'ganondorf ', password: 'getTheTriforce' }, process.env.KEY);
+  const token = jwt.sign({ userName: 'ganondorf', password: 'getTheTriforce' }, process.env.KEY);
 
   beforeEach((done) => {
     database.migrate.rollback().then(() => {
@@ -199,13 +199,135 @@ describe('API routes', () => {
             response.body[0].should.have.property('updated_at');
           }));
 
-      it('should return 404 if remark with requested id does not exist', () =>
+      it('should return 404 if recipe with requested id does not exist', () =>
         chai
           .request(server)
           .get('/api/v1/recipes/19')
           .then((response) => {
             response.should.have.status(404);
             response.body.error.should.equal('Could not find recipe with id 19');
+          }));
+    });
+
+    describe('api/v1/users/:id', () => {
+      it('should get a specific user', () =>
+        chai
+          .request(server)
+          .get('/api/v1/users/1')
+          .send({ token })
+          .then((response) => {
+            response.body.length.should.equal(1);
+            response.should.have.status(200);
+            response.should.be.json;
+            response.body.should.be.a('array');
+
+            response.body[0].should.have.property('id');
+            response.body[0].id.should.equal(1);
+
+            response.body[0].should.have.property('userName');
+            response.body[0].userName.should.equal('ganondorf');
+
+            response.body[0].should.have.property('password');
+            response.body[0].password.should.equal('getTheTriforce');
+
+            response.body[0].should.have.property('created_at');
+            response.body[0].should.have.property('updated_at');
+          }));
+
+      it('should return 404 if user with requested id does not exist', () =>
+        chai
+          .request(server)
+          .get('/api/v1/users/79')
+          .send({ token })
+          .then((response) => {
+            response.should.have.status(404);
+            response.body.error.should.equal('Could not find user with id 79');
+          }));
+    });
+  });
+
+  describe('POST', () => {
+    describe('api/v1/authenticate', () => {
+      it('should return a token', () =>
+        chai
+          .request(server)
+          .post('/api/v1/authenticate')
+          .send({
+            userName: 'ganondorf',
+            password: 'getTheTriforce',
+          })
+          .then((response) => {
+            response.should.have.status(201);
+            response.body.should.be.a('object');
+            response.body.token.should.a('string');
+          })
+          .catch((err) => {
+            throw err;
+          }));
+
+      it('should not return a token if required query parameters are missing', () =>
+        chai
+          .request(server)
+          .post('/api/v1/authenticate')
+          .send({
+            userName: 'ganondorf',
+          })
+          .then((response) => {
+            response.should.have.status(422);
+            response.body.should.be.a('object');
+            response.body.should.have.property('error');
+            response.body.error.should.equal('Invalid password or user name');
+          })
+          .catch((err) => {
+            throw err;
+          }));
+    });
+
+    describe('api/v1/users', () => {
+      it('should create a new user', () =>
+        chai
+          .request(server)
+          .post('/api/v1/users')
+          .send({
+            userName: 'link',
+            password: 'saveThePrincess',
+            token,
+          })
+          .then((response) => {
+            response.should.have.status(201);
+            response.body.should.be.a('object');
+            response.body.id.should.equal(2);
+          })
+          .catch((err) => {
+            throw err;
+          }));
+
+      it('should not create a user with missing data', () =>
+        chai
+          .request(server)
+          .post('/api/v1/users')
+          .send({
+            userName: 'link',
+            token,
+          })
+          .then((response) => {
+            response.should.have.status(422);
+            response.body.should.have.property('error');
+            response.body.error.should.equal('Error you are missing password property');
+          }));
+
+      it('should not create a user without a token', () =>
+        chai
+          .request(server)
+          .post('/api/v1/users')
+          .send({
+            userName: 'link',
+            password: 'saveThePrincess',
+          })
+          .then((response) => {
+            response.should.have.status(403);
+            response.body.should.have.property('error');
+            response.body.error.should.equal('You must be authorized to access this endpoint.');
           }));
     });
   });

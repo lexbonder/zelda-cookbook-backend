@@ -11,9 +11,9 @@ process.env.KEY = 'ocarinaOfTime';
 
 app.use(bodyParser.json());
 
-app.use(function(req, res, next) {
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
   next();
 });
 
@@ -107,8 +107,6 @@ app.get('/api/v1/recipes/:id', (request, response) => {
 });
 
 app.get('/api/v1/users/:id', checkAuth, (request, response) => {
-  const { userName, password } = request.body;
-
   database('users')
     .where('id', request.params.id)
     .select()
@@ -126,12 +124,12 @@ app.get('/api/v1/users/:id', checkAuth, (request, response) => {
     });
 });
 
-app.post('/api/v1/users', (request, responce) => {
-  const body = request.body;
+app.post('/api/v1/users', checkAuth, (request, response) => {
   const { userName, password } = request.body;
+  const user = { userName, password };
 
   for (const requiredParameter of ['userName', 'password']) {
-    if (!body[requiredParameter]) {
+    if (!user[requiredParameter]) {
       return response.status(422).send({
         error: `Error you are missing ${requiredParameter} property`,
       });
@@ -147,19 +145,18 @@ app.post('/api/v1/users', (request, responce) => {
     });
 });
 
-app.post('/authenticate', (request, response) => {
+app.post('/api/v1/authenticate', (request, response) => {
   const body = request.body;
   const { userName, password } = request.body;
 
-  // how to check users in database?
-
-  for (const requiredParameter of ['userName', 'passord']) {
+  for (const requiredParameter of ['userName', 'password']) {
     if (!body[requiredParameter]) {
       return response.status(422).send({ error: 'Invalid password or user name' });
     }
   }
 
-  if (email) {
+  // how do we check users in database?
+  if (password) {
     const token = jwt.sign(body, process.env.KEY);
 
     return response.status(201).json({ token });
