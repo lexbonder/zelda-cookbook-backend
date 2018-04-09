@@ -16,10 +16,10 @@ exports.seed = (knex, Promise) => {
             recipes.map(recipe => {
               let multipliers = ['x2', 'x3', 'x4', 'x5']
               let ingredients = {}
-              let ingName;
 
               for (let i = 1; i <= 5; i++) {
                 if (recipe[`ingredient${i}`]) {
+                  let ingName = undefined;
                   multipliers.forEach( item => {
                     if (recipe[`ingredient${i}`].includes(item)) {
                       ingName = recipe[`ingredient${i}`].slice(0, -3)
@@ -34,7 +34,15 @@ exports.seed = (knex, Promise) => {
               return {...recipe, ...ingredients}
             })
           )
-        }) 
+        })
+        .then(user =>
+          knex('users').insert([
+            {
+              userName: 'ganondorf',
+              password: 'getTheTriforce',
+            },
+          ])
+        ) 
       ])
     })
 };
