@@ -1,9 +1,15 @@
 language: node_js
 node_js:
-  - node
+- node
 services:
-  - postgresql
+- postgresql
 before_script:
-  - psql -c 'create database zelda_cookbook_test;' -U postgres
+- psql -c 'create database zelda_cookbook_test;' -U postgres
 notifications:
   email: false
+deploy:
+  provider: heroku
+  app: zelda_cookbook_backend
+  skip_cleanup: true
+  api_key:
+    secure: maw3/fVq4IaMLZTTckC0THW1To7MY/M2Q1yf4vqCdnQK2hDeefHjKNp4p2ZV+Cb/9dx+HgK9400KkrUGk2uDKdittM876ICuN4jqa/Cp4MocJ1WwtN/+AtA9EDMtZJ6uBksekiPz7yzpqV3uDPel5Lycj4I5e49npbspFg40lI29Rt2uQVdPfXsmm7SvSjtzZEsXkD1UEk5iXhNgwHnW5Xact+0MzWEktqxJ4GIIVeU+7w+dkVfhkP+d/yRnxnajSOGPNq49+0BL4ZvLRw2biLuZ8SbGjVp72VE5nR2/F4mwCeiwsdyrffQ4XmkufqJijGgFEsTvvIxjNqf/cQrtppRHKAa82W1+f5wk/nHg4X/J693rPHUWlmv/R5F1Vn620xqDPeEGoSK0RjO401MfCxmDjO9Bbn5oV2BxE8gGYTescZEa11UmavAmwTfeZOimxncYSTCd3gasBxhILkMfOTdfHBED4SI29bBas59nZCtDHqLqBcy4qf5TZ9Ml1LdRmYQo5zxngzUFTz2CNUuAm13LGI+lRMiUeetrohiItDempnvARiSHaZF5ZfckRdua6Z0ZxTqxTO+BLCT7sEk9Q7d6llJxHiiPdUmppppF6cSOJM4c+nKAwHx1jmWgHI6wzMYZb9OdDgw4Umjxa56T/nKnUZZrGbNykRbhj1ilqq4=
