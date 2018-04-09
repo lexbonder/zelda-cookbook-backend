@@ -72,7 +72,19 @@ app.get('/api/v1/ingredients/:id', (request, response) => {
 });
 
 app.get('/api/v1/recipes', (request, response) => {
-  database('recipes')
+  const type = request.query.type
+
+  if(type) {
+    database('recipes').where('type', type)
+    .select()
+    .then((recipes) => {
+      response.status(200).json(recipes)
+    })
+    .catch(err => {
+      response.status(500).json({err})
+    })
+  } else {
+    database('recipes')
     .select()
     .then((recipes) => {
       if (recipes.length) {
@@ -86,6 +98,7 @@ app.get('/api/v1/recipes', (request, response) => {
     .catch((error) => {
       response.status(500).json({ error });
     });
+  }
 });
 
 app.get('/api/v1/recipes/:id', (request, response) => {
