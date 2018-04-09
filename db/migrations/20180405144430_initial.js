@@ -17,9 +17,11 @@ exports.up = function (knex, Promise) {
       table.string('category');
       table.string('hearts');
       table.string('name');
-      table.string('notes');
+      table.text('notes');
       table.string('resale');
       table.string('type');
+      table.string('duration');
+      table.string('strength');
       table.integer('ingredient1');
       table.foreign('ingredient1').references('ingredients.id');
       table.integer('ingredient2');
@@ -32,18 +34,18 @@ exports.up = function (knex, Promise) {
       table.foreign('ingredient5').references('ingredients.id');
       table.timestamps(true, true);
     }),
-    knex.schema.createTable('users', (table) => {
-      table.increments('id').primary;
-      table.string('userName');
-      table.string('password');
-      table.timestamps(true, true);
-    }),
+    // knex.schema.createTable('users', (table) => {
+    //   table.increments('id').primary;
+    //   table.string('userName');
+    //   table.string('password');
+    //   table.timestamps(true, true);
+    // }),
   ]);
 };
 
 exports.down = function (knex, Promise) {
   return Promise.all([
-    knex.schema.dropTable('users'),
+    // knex.schema.dropTable('users'),
     knex.schema.dropTable('recipes'),
     knex.schema.dropTable('ingredients'),
   ]);
