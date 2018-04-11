@@ -15,7 +15,7 @@ exports.seed = (knex, Promise) => {
           .insert(
             recipes.map(recipe => {
               let multipliers = ['x2', 'x3', 'x4', 'x5']
-              let ingredients = {}
+              let ingredientIds = {}
 
               for (let i = 1; i <= 5; i++) {
                 if (recipe[`ingredient${i}`]) {
@@ -24,14 +24,14 @@ exports.seed = (knex, Promise) => {
                     if (recipe[`ingredient${i}`].includes(item)) {
                       ingName = recipe[`ingredient${i}`].slice(0, -3)
                     } 
-                    ingredients[`ingredient${i}`] = knex('ingredients')
+                    ingredientIds[`ingredient${i}_id`] = knex('ingredients')
                       .where('name', ingName || recipe[`ingredient${i}`])
                       .select('id')
                   })
                   
                 } 
               }
-              return {...recipe, ...ingredients}
+              return {...recipe, ...ingredientIds}
             })
           )
         })
