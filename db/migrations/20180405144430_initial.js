@@ -22,16 +22,21 @@ exports.up = function (knex, Promise) {
       table.string('type');
       table.string('duration');
       table.string('strength');
-      table.integer('ingredient1');
-      table.foreign('ingredient1').references('ingredients.id');
-      table.integer('ingredient2');
-      table.foreign('ingredient2').references('ingredients.id');
-      table.integer('ingredient3');
-      table.foreign('ingredient3').references('ingredients.id');
-      table.integer('ingredient4');
-      table.foreign('ingredient4').references('ingredients.id');
-      table.integer('ingredient5');
-      table.foreign('ingredient5').references('ingredients.id');
+      table.string('ingredient1');
+      table.string('ingredient2');
+      table.string('ingredient3');
+      table.string('ingredient4');
+      table.string('ingredient5');
+      table.integer('ingredient1_id');
+      table.foreign('ingredient1_id').references('ingredients.id');
+      table.integer('ingredient2_id');
+      table.foreign('ingredient2_id').references('ingredients.id');
+      table.integer('ingredient3_id');
+      table.foreign('ingredient3_id').references('ingredients.id');
+      table.integer('ingredient4_id');
+      table.foreign('ingredient4_id').references('ingredients.id');
+      table.integer('ingredient5_id');
+      table.foreign('ingredient5_id').references('ingredients.id');
       table.timestamps(true, true);
     }),
     knex.schema.createTable('users', (table) => {
