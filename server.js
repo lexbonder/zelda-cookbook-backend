@@ -12,15 +12,9 @@ process.env.KEY = 'ocarinaOfTime';
 app.use(bodyParser.json());
 
 app.use((req, res, next) => {
-  const allowedOrigins = ['http://localhost:3001', 'http://zelda-cookbook.surge.sh/'];
-  const { origin } = req.headers;
-  if (allowedOrigins.indexOf(origin) > -1) {
-    res.setHeader('Access-Control-Allow-Origin', origin);
-  }
-  res.header('Access-Control-Allow-Methods', 'GET, OPTIONS');
-  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization');
-  res.header('Access-Control-Allow-Credentials', true);
-  return next();
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  next();
 });
 
 app.set('port', process.env.PORT || 3000);
