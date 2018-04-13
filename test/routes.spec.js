@@ -107,7 +107,7 @@ describe('API routes', () => {
           .request(server)
           .get('/api/v1/recipes')
           .then((response) => {
-            response.body.length.should.equal(2);
+            response.body.length.should.equal(3);
 
             response.should.have.status(200);
             response.should.be.json;
@@ -160,6 +160,43 @@ describe('API routes', () => {
           })
           .catch((err) => {
             throw err;
+          }));
+
+      it('should be able to get recipes by type', () =>
+        chai
+          .request(server)
+          .get('/api/v1/recipes?type=Movement%20Speed')
+          .then((response) => {
+            response.body.length.should.equal(1);
+            response.should.have.status(200);
+            response.should.be.json;
+            response.body.should.be.a('array');
+
+            response.body[0].should.have.property('id');
+            response.body[0].id.should.equal(3);
+
+            response.body[0].should.have.property('category');
+            response.body[0].category.should.equal('recipe');
+
+            response.body[0].should.have.property('hearts');
+            response.body[0].hearts.should.equal('4');
+
+            response.body[0].should.have.property('notes');
+            response.body[0].notes.should.equal('Restore four hearts');
+
+            response.body[0].should.have.property('resale');
+            response.body[0].resale.should.equal('0');
+
+            response.body[0].should.have.property('type');
+            response.body[0].type.should.equal('Movement Speed');
+
+            response.body[0].should.have.property('ingredient1_id');
+            response.body[0].should.have.property('ingredient2_id');
+            response.body[0].should.have.property('ingredient3_id');
+            response.body[0].should.have.property('ingredient4_id');
+            response.body[0].should.have.property('ingredient5_id');
+            response.body[0].should.have.property('created_at');
+            response.body[0].should.have.property('updated_at');
           }));
     });
 
