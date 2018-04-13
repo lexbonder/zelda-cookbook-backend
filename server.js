@@ -13,7 +13,10 @@ app.use(bodyParser.json());
 
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
-  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  res.header(
+    'Access-Control-Allow-Headers',
+    'Origin, X-Requested-With, Content-Type, Accept'
+  );
   next();
 });
 
@@ -25,7 +28,9 @@ const checkAuth = (request, response, next) => {
   const { token } = request.body;
 
   if (!token) {
-    return response.status(403).send({ error: 'You must be authorized to access this endpoint.' });
+    return response
+      .status(403)
+      .send({ error: 'You must be authorized to access this endpoint.' });
   }
   try {
     jwt.verify(token, process.env.KEY);
@@ -39,16 +44,16 @@ const checkAuth = (request, response, next) => {
 app.get('/api/v1/ingredients', (request, response) => {
   database('ingredients')
     .select()
-    .then((ingredients) => {
+    .then(ingredients => {
       if (ingredients.length) {
         response.status(200).json(ingredients);
       } else {
         response.status(404).json({
-          error: 'ingredients not found',
+          error: 'ingredients not found'
         });
       }
     })
-    .catch((error) => {
+    .catch(error => {
       response.status(500).json({ error });
     });
 });
@@ -57,47 +62,48 @@ app.get('/api/v1/ingredients/:id', (request, response) => {
   database('ingredients')
     .where('id', request.params.id)
     .select()
-    .then((ingredient) => {
+    .then(ingredient => {
       if (ingredient.length) {
         response.status(200).json(ingredient);
       } else {
         response.status(404).json({
-          error: `Could not find ingredient with id ${request.params.id}`,
+          error: `Could not find ingredient with id ${request.params.id}`
         });
       }
     })
-    .catch((error) => {
+    .catch(error => {
       response.status(500).json({ error });
     });
 });
 
 app.get('/api/v1/recipes', (request, response) => {
-  const type = request.query.type
+  const type = request.query.type;
 
-  if(type) {
-    database('recipes').where('type', type)
-    .select()
-    .then((recipes) => {
-      response.status(200).json(recipes)
-    })
-    .catch(err => {
-      response.status(500).json({err})
-    })
+  if (type) {
+    database('recipes')
+      .where('type', type)
+      .select()
+      .then(recipes => {
+        response.status(200).json(recipes);
+      })
+      .catch(err => {
+        response.status(500).json({ err });
+      });
   } else {
     database('recipes')
-    .select()
-    .then((recipes) => {
-      if (recipes.length) {
-        response.status(200).json(recipes);
-      } else {
-        response.status(404).json({
-          error: 'recipes not found',
-        });
-      }
-    })
-    .catch((error) => {
-      response.status(500).json({ error });
-    });
+      .select()
+      .then(recipes => {
+        if (recipes.length) {
+          response.status(200).json(recipes);
+        } else {
+          response.status(404).json({
+            error: 'recipes not found'
+          });
+        }
+      })
+      .catch(error => {
+        response.status(500).json({ error });
+      });
   }
 });
 
@@ -105,16 +111,16 @@ app.get('/api/v1/recipes/:id', (request, response) => {
   database('recipes')
     .where('id', request.params.id)
     .select()
-    .then((recipe) => {
+    .then(recipe => {
       if (recipe.length) {
         response.status(200).json(recipe);
       } else {
         response.status(404).json({
-          error: `Could not find recipe with id ${request.params.id}`,
+          error: `Could not find recipe with id ${request.params.id}`
         });
       }
     })
-    .catch((error) => {
+    .catch(error => {
       response.status(500).json({ error });
     });
 });
@@ -123,16 +129,16 @@ app.get('/api/v1/users/:id', checkAuth, (request, response) => {
   database('users')
     .where('id', request.params.id)
     .select()
-    .then((user) => {
+    .then(user => {
       if (user.length) {
         response.status(200).json(user);
       } else {
         response.status(404).json({
-          error: `Could not find user with id ${request.params.id}`,
+          error: `Could not find user with id ${request.params.id}`
         });
       }
     })
-    .catch((error) => {
+    .catch(error => {
       response.status(500).json({ error });
     });
 });
@@ -144,16 +150,16 @@ app.post('/api/v1/users', checkAuth, (request, response) => {
   for (const requiredParameter of ['userName', 'password']) {
     if (!user[requiredParameter]) {
       return response.status(422).send({
-        error: `Error you are missing ${requiredParameter} property`,
+        error: `Error you are missing ${requiredParameter} property`
       });
     }
   }
   database('users')
     .insert(user, 'id')
-    .then((user) => {
+    .then(user => {
       response.status(201).json({ id: user[0] });
     })
-    .catch((error) => {
+    .catch(error => {
       response.status(500).json({ error });
     });
 });
@@ -164,12 +170,14 @@ app.post('/api/v1/authenticate', (request, response) => {
 
   for (const requiredParameter of ['userName', 'password']) {
     if (!body[requiredParameter]) {
-      return response.status(422).send({ error: 'Invalid password or user name' });
+      return response
+        .status(422)
+        .send({ error: 'Invalid password or user name' });
     }
   }
 
   // how do we check users in database?
-  if (password) {
+  if (password && userName) {
     const token = jwt.sign(body, process.env.KEY);
 
     return response.status(201).json({ token });
