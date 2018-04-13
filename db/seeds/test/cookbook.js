@@ -76,6 +76,21 @@ exports.seed = (knex, Promise) => {
                 resale: '0',
                 type: 'Restore Hearts',
               },
+              {
+                category: 'recipe',
+                duration: "2:00",
+                hearts: '4',
+                ingredient1: null,
+                ingredient2: null,
+                ingredient3: null,
+                ingredient4: null,
+                ingredient5: null,
+                name: "Hasty Fish and Mushroom Skewer",
+                notes: "Restore four hearts",
+                resale: "0",
+                strength: "Low",
+                type: "Movement Speed"
+              },
             ]))
           .then(user =>
             knex('users').insert([
