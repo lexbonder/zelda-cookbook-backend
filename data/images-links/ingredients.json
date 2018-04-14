@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Apple",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/f2/BotW_Apple_Icon.png/40px-BotW_Apple_Icon.png?version=f974e8c634aa8850c92c24c569bc9633"
+  },
+  {
+    "name": "Fleet-Lotus Seeds",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/5e/BotW_Fleet-Lotus_Seeds_Icon.png/40px-BotW_Fleet-Lotus_Seeds_Icon.png?version=bf9651543769381e8dff44f0f2adb622"
+  },
+  {
+    "name": "Hearty Durian",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/83/BotW_Hearty_Durian_Icon.png/40px-BotW_Hearty_Durian_Icon.png?version=e6468e46a6bad969f09ab9484eeafd5c"
+  },
+  {
+    "name": "Hydromelon",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b0/BotW_Hydromelon_Icon.png/40px-BotW_Hydromelon_Icon.png?version=32819b80afbeace58abe9e17319be379"
+  },
+  {
+    "name": "Mighty Bananas",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/57/BotW_Mighty_Bananas_Icon.png/40px-BotW_Mighty_Bananas_Icon.png?version=20d69a7c70c8590d28a9c17b113ce078"
+  },
+  {
+    "name": "Palm Fruit",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/93/BotW_Palm_Fruit_Icon.png/40px-BotW_Palm_Fruit_Icon.png?version=90e0820db0db214de4a80995475c1259"
+  },
+  {
+    "name": "Spicy Pepper",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0c/BotW_Spicy_Pepper_Icon.png/40px-BotW_Spicy_Pepper_Icon.png?version=4f61d5e3ed3e8d1ff1408b030fd38f40"
+  },
+  {
+    "name": "Voltfruit",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/e1/BotW_Voltfruit_Icon.png/40px-BotW_Voltfruit_Icon.png?version=be423bc89a269ab3932a30e6d4696d76"
+  },
+  {
+    "name": "Wildberry",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/10/BotW_Wildberry_Icon.png/40px-BotW_Wildberry_Icon.png?version=8b75fb7b562c81d24ddf5d7183945d47"
+  },
+  {
+    "name": "Big Hearty Truffle",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/69/BotW_Big_Hearty_Truffle_Icon.png/40px-BotW_Big_Hearty_Truffle_Icon.png?version=60598f3d71e5e132d13ab45f7fff591f"
+  },
+  {
+    "name": "Chillshroom",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/26/BotW_Chillshroom_Icon.png/40px-BotW_Chillshroom_Icon.png?version=266d91b5af5b0db13e79c15ea6e48b14"
+  },
+  {
+    "name": "Endura Shroom",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/29/BotW_Endura_Shroom_Icon.png/40px-BotW_Endura_Shroom_Icon.png?version=50a828d88341db47c6c494901caa93ba"
+  },
+  {
+    "name": "Hearty Truffle",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/cc/BotW_Hearty_Truffle_Icon.png/40px-BotW_Hearty_Truffle_Icon.png?version=ed924719bbca06896aa1f45593e5d239"
+  },
+  {
+    "name": "Hylian Shroom",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/13/BotW_Hylian_Shroom_Icon.png/40px-BotW_Hylian_Shroom_Icon.png?version=07aeb3c4dd8922246ab4aa2af0ff9a76"
+  },
+  {
+    "name": "Ironshroom",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/80/BotW_Ironshroom_Icon.png/40px-BotW_Ironshroom_Icon.png?version=c0fb0336ae1cba5f1a0dca7f99d4c222"
+  },
+  {
+    "name": "Razorshroom",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/62/BotW_Razorshroom_Icon.png/40px-BotW_Razorshroom_Icon.png?version=5b2c3f1975f7a0574b65b94b86bb52f4"
+  },
+  {
+    "name": "Rushroom",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/55/BotW_Rushroom_Icon.png/40px-BotW_Rushroom_Icon.png?version=1909758e1152962cbc1b1af909fb7500"
+  },
+  {
+    "name": "Silent Shroom",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/36/BotW_Silent_Shroom_Icon.png/40px-BotW_Silent_Shroom_Icon.png?version=b56f4e6991e75fb1efca459f45d25558"
+  },
+  {
+    "name": "Stamella Shroom",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c2/BotW_Stamella_Shroom_Icon.png/40px-BotW_Stamella_Shroom_Icon.png?version=2273a0df0cfaa13647bebd0ba2202d70"
+  },
+  {
+    "name": "Sunshroom",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/5d/BotW_Sunshroom_Icon.png/40px-BotW_Sunshroom_Icon.png?version=0fc2382ad3f521ecf8d55caed4a43ec2"
+  },
+  {
+    "name": "Zapshroom",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6c/BotW_Zapshroom_Icon.png/40px-BotW_Zapshroom_Icon.png?version=fae3267508d4a7fc8259dd61b09ce078"
+  },
+  {
+    "name": "Big Hearty Radish",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3a/BotW_Big_Hearty_Radish_Icon.png/40px-BotW_Big_Hearty_Radish_Icon.png?version=9760ed01730c0c2c0ca7dbc0c0ccd7e5"
+  },
+  {
+    "name": "Endura Carrot",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/09/BotW_Endura_Carrot_Icon.png/40px-BotW_Endura_Carrot_Icon.png?version=3b206a2fffb6cdd7c6a9664e4a298b00"
+  },
+  {
+    "name": "Fortified Pumpkin",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/ec/BotW_Fortified_Pumpkin_Icon.png/40px-BotW_Fortified_Pumpkin_Icon.png?version=fdd6270e04667bd7a02cf744111acbed"
+  },
+  {
+    "name": "Hearty Radish",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3e/BotW_Hearty_Radish_Icon.png/40px-BotW_Hearty_Radish_Icon.png?version=53c32d55b20ef954f0630b6840c6cbf1"
+  },
+  {
+    "name": "Swift Carrot",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/32/BotW_Swift_Carrot_Icon.png/40px-BotW_Swift_Carrot_Icon.png?version=0c97c802f8854411120fde4023bb50da"
+  },
+  {
+    "name": "Raw Meat",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/52/BotW_Raw_Meat_Icon.png/40px-BotW_Raw_Meat_Icon.png?version=9e202229c5e80d917341751a138ed3e4"
+  },
+  {
+    "name": "Raw Prime Meat",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c3/BotW_Raw_Prime_Meat_Icon.png/40px-BotW_Raw_Prime_Meat_Icon.png?version=e26f8df9b4e614dc77a42f30450d24f4"
+  },
+  {
+    "name": "Raw Gourmet Meat",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6f/BotW_Raw_Gourmet_Meat_Icon.png/40px-BotW_Raw_Gourmet_Meat_Icon.png?version=8a351fd9c03c999ca7846dd5eb8c13fe"
+  },
+  {
+    "name": "Raw Bird Drumstick",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c5/BotW_Raw_Bird_Drumstick_Icon.png/40px-BotW_Raw_Bird_Drumstick_Icon.png?version=61bddd1d3d4c4894ecdce66eb81fad18"
+  },
+  {
+    "name": "Raw Bird Thigh",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/77/BotW_Raw_Bird_Thigh_Icon.png/40px-BotW_Raw_Bird_Thigh_Icon.png?version=fad700f26dd49670fd132d8ae63963a2"
+  },
+  {
+    "name": "Raw Whole Bird",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/05/BotW_Raw_Whole_Bird_Icon.png/40px-BotW_Raw_Whole_Bird_Icon.png?version=b95495347411ab0926e1bb9a0efd57a9"
+  },
+  {
+    "name": "Bright-Eyed Crab",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/db/BotW_Bright-Eyed_Crab_Icon.png/40px-BotW_Bright-Eyed_Crab_Icon.png?version=64159bfce88bded968f86c2cfb27cf05"
+  },
+  {
+    "name": "Ironshell Crab",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/1c/BotW_Ironshell_Crab_Icon.png/40px-BotW_Ironshell_Crab_Icon.png?version=171ec64f37bb63e2f432819454c68beb"
+  },
+  {
+    "name": "Razorclaw Crab",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/56/BotW_Razorclaw_Crab_Icon.png/40px-BotW_Razorclaw_Crab_Icon.png?version=724c5b7c2a4dfb20769b7bf7a8a4530e"
+  },
+  {
+    "name": "Armored Carp",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/86/BotW_Armored_Carp_Icon.png/40px-BotW_Armored_Carp_Icon.png?version=e36a083445053cffda0f47d7c13b3b30"
+  },
+  {
+    "name": "Armored Porgy",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/60/BotW_Armored_Porgy_Icon.png/40px-BotW_Armored_Porgy_Icon.png?version=3b291385fe14457c888473473b68bcd3"
+  },
+  {
+    "name": "Chillfin Trout",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/15/BotW_Chillfin_Trout_Icon.png/40px-BotW_Chillfin_Trout_Icon.png?version=9f2a9b53b093852bc6ac02ea016779ce"
+  },
+  {
+    "name": "Hearty Bass",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0c/BotW_Hearty_Bass_Icon.png/40px-BotW_Hearty_Bass_Icon.png?version=1b4cd51b278e9666d58c07f803ae46f5"
+  },
+  {
+    "name": "Hearty Blueshell Snail",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/66/BotW_Hearty_Blueshell_Snail_Icon.png/40px-BotW_Hearty_Blueshell_Snail_Icon.png?version=06975c0e417356682dacd94494b9f455"
+  },
+  {
+    "name": "Hearty Salmon",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/81/BotW_Hearty_Salmon_Icon.png/40px-BotW_Hearty_Salmon_Icon.png?version=6ccf79cb7e7199efc7d1ef2c5e1fe934"
+  },
+  {
+    "name": "Hyrule Bass",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/66/BotW_Hyrule_Bass_Icon.png/40px-BotW_Hyrule_Bass_Icon.png?version=ecd0218041e8ecd3307fd88eb0c38b11"
+  },
+  {
+    "name": "Mighty Carp",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c8/BotW_Mighty_Carp_Icon.png/40px-BotW_Mighty_Carp_Icon.png?version=82bb5d7c9ac0a32566a278a60b828a57"
+  },
+  {
+    "name": "Mighty Porgy",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/72/BotW_Mighty_Porgy_Icon.png/40px-BotW_Mighty_Porgy_Icon.png?version=62df4aac2156ae59ab26ad1197ad56e0"
+  },
+  {
+    "name": "Sizzlefin Trout",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/69/BotW_Sizzlefin_Trout_Icon.png/40px-BotW_Sizzlefin_Trout_Icon.png?version=a2c23b8229b9499d9154c9413ab84fb9"
+  },
+  {
+    "name": "Sanke Carp",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/9c/BotW_Sanke_Carp_Icon.png/40px-BotW_Sanke_Carp_Icon.png?version=ccef0ecb1f76784a7c82306eb6c991a1"
+  },
+  {
+    "name": "Sneaky River Snail",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/82/BotW_Sneaky_River_Snail_Icon.png/40px-BotW_Sneaky_River_Snail_Icon.png?version=8b45c183a92b18ccae708580ae00900e"
+  },
+  {
+    "name": "Stealthfin Trout",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/d6/BotW_Stealthfin_Trout_Icon.png/40px-BotW_Stealthfin_Trout_Icon.png?version=2905be585ac8e6ac4206ec5118b42e63"
+  },
+  {
+    "name": "Voltfin Trout",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/1b/BotW_Voltfin_Trout_Icon.png/40px-BotW_Voltfin_Trout_Icon.png?version=ea4e4a7a5559ae655be4a846e8df1df0"
+  },
+  {
+    "name": "Acorn",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/66/BotW_Acorn_Icon.png/40px-BotW_Acorn_Icon.png?version=4e3b6b85bbb1f240eaa7b03f263bee1b"
+  },
+  {
+    "name": "Bird Egg",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/75/BotW_Bird_Egg_Icon.png/40px-BotW_Bird_Egg_Icon.png?version=57dc8495ebdd66e365f20cc8128c87d8"
+  },
+  {
+    "name": "Chickaloo Tree Nut",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/04/BotW_Chickaloo_Tree_Nut_Icon.png/40px-BotW_Chickaloo_Tree_Nut_Icon.png?version=e9ef002335d885e05dc351c7f289b5a7"
+  },
+  {
+    "name": "Courser Bee Honey",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/fd/BotW_Courser_Bee_Honey_Icon.png/40px-BotW_Courser_Bee_Honey_Icon.png?version=7f6f039f10c3077ede13207e50ba8424"
+  },
+  {
+    "name": "Goat Butter",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/76/BotW_Goat_Butter_Icon.png/40px-BotW_Goat_Butter_Icon.png?version=01f3ac433836485f0fa8646add382b63"
+  },
+  {
+    "name": "Hylian Rice",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/67/BotW_Hylian_Rice_Icon.png/40px-BotW_Hylian_Rice_Icon.png?version=7335f051cc799c5907f6f4fc2908e3e8"
+  },
+  {
+    "name": "Goron Spice",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6f/BotW_Goron_Spice_Icon.png/40px-BotW_Goron_Spice_Icon.png?version=b29a8330be833ffe051dbd68aa4957eb"
+  },
+  {
+    "name": "Tabantha Wheat",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/a3/BotW_Tabantha_Wheat_Icon.png/40px-BotW_Tabantha_Wheat_Icon.png?version=d173d9d177535b3dfc36ab681dfc85e7"
+  },
+  {
+    "name": "Fresh Milk",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6a/BotW_Fresh_Milk_Icon.png/40px-BotW_Fresh_Milk_Icon.png?version=523ae3b0298368cb4185270a80c2db9e"
+  },
+  {
+    "name": "Cane Sugar",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b5/BotW_Cane_Sugar_Icon.png/40px-BotW_Cane_Sugar_Icon.png?version=24b0402cb942893de116c4277a5bfd47"
+  },
+  {
+    "name": "Armoranth",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b3/BotW_Armoranth_Icon.png/40px-BotW_Armoranth_Icon.png?version=600fa20a51d67421dd0417decb942f92"
+  },
+  {
+    "name": "Blue Nightshade",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/a5/BotW_Blue_Nightshade_Icon.png/40px-BotW_Blue_Nightshade_Icon.png?version=9152dbd7b36f6745881ddf51333105d1"
+  },
+  {
+    "name": "Cool Safflina",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/7d/BotW_Cool_Safflina_Icon.png/40px-BotW_Cool_Safflina_Icon.png?version=380c90aff97181a7a4aa701643a68409"
+  },
+  {
+    "name": "Electric Safflina",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/42/BotW_Electric_Safflina_Icon.png/40px-BotW_Electric_Safflina_Icon.png?version=458e4185fef5209773763216986d96bf"
+  },
+  {
+    "name": "Hyrule Herb",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3d/BotW_Hyrule_Herb_Icon.png/40px-BotW_Hyrule_Herb_Icon.png?version=5f8f8615322c59b89d7ffb2d70d5a464"
+  },
+  {
+    "name": "Mighty Thistle",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/76/BotW_Mighty_Thistle_Icon.png/40px-BotW_Mighty_Thistle_Icon.png?version=88729ebb2a6a825d4d31e92a3c079a45"
+  },
+  {
+    "name": "Silent Princess",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/48/BotW_Silent_Princess_Icon.png/40px-BotW_Silent_Princess_Icon.png?version=eec59006535a1b43d628a822cd8ea75e"
+  },
+  {
+    "name": "Swift Violet",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/e1/BotW_Swift_Violet_Icon.png/40px-BotW_Swift_Violet_Icon.png?version=7ecb5e93264220a26d26988c55c07237"
+  },
+  {
+    "name": "Warm Safflina",
+    "img":
+      "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/ea/BotW_Warm_Safflina_Icon.png/40px-BotW_Warm_Safflina_Icon.png?version=29f61e2616934e1a304d08a3a09bb5d6"
+  }
+]

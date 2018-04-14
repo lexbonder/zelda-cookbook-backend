@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Apple Pie",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/e7/BotW_Apple_Pie_Icon.png/40px-BotW_Apple_Pie_Icon.png?version=2f7ced1195a0410c6e183508090ca3cd"
+  },
+  {
+    "name": "Carrot Cake",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/81/BotW_Carrot_Cake_Icon.png/40px-BotW_Carrot_Cake_Icon.png?version=5e99ee404816a04e834fe07cb5a14e36"
+  },
+  {
+    "name": "Carrot Stew",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/e5/BotW_Carrot_Stew_Icon.png/40px-BotW_Carrot_Stew_Icon.png?version=131d5c966ef361c2c836c3ac8e2d95ec"
+  },
+  {
+    "name": "Crab Omelet with Rice",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6d/BotW_Crab_Omelet_with_Rice_Icon.png/40px-BotW_Crab_Omelet_with_Rice_Icon.png?version=c56aab483613672407f3feee4fa19153"
+  },
+  {
+    "name": "Crab Risotto",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/f3/BotW_Crab_Risotto_Icon.png/40px-BotW_Crab_Risotto_Icon.png?version=689cd5eadc0f17a5f71a1efd69725a58"
+  },
+  {
+    "name": "Crab Stir-Fry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/be/BotW_Crab_Stir-Fry_Icon.png/40px-BotW_Crab_Stir-Fry_Icon.png?version=b70aa706a9341f4de3ea619dac8aea8a"
+  },
+  {
+    "name": "Cream of Mushroom Soup",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0c/BotW_Cream_of_Mushroom_Soup_Icon.png/40px-BotW_Cream_of_Mushroom_Soup_Icon.png?version=37b9ff32042b2de0480f8b46c94187d3"
+  },
+  {
+    "name": "Cream of Vegetable Soup",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/54/BotW_Cream_of_Vegetable_Soup_Icon.png/40px-BotW_Cream_of_Vegetable_Soup_Icon.png?version=17d7db0e1f27a5d9ad9b1db2459b14c7"
+  },
+  {
+    "name": "Creamy Heart Soup",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/21/BotW_Creamy_Heart_Soup_Icon.png/40px-BotW_Creamy_Heart_Soup_Icon.png?version=2a84502510a848cd65ee9a797b7dc9dd"
+  },
+  {
+    "name": "Creamy Meat Soup",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/81/BotW_Creamy_Meat_Soup_Icon.png/40px-BotW_Creamy_Meat_Soup_Icon.png?version=e357c1ee86f9d752d4eb25a748b01be4"
+  },
+  {
+    "name": "Creamy Seafood Soup",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c7/BotW_Creamy_Seafood_Soup_Icon.png/40px-BotW_Creamy_Seafood_Soup_Icon.png?version=71e5a998e739e831e3129380117d4eec"
+  },
+  {
+    "name": "Curry Pilaf",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c3/BotW_Curry_Pilaf_Icon.png/40px-BotW_Curry_Pilaf_Icon.png?version=a62eb7966f22ceb668c8a5cf2589ad3a"
+  },
+  {
+    "name": "Curry Rice",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/d0/BotW_Curry_Rice_Icon.png/40px-BotW_Curry_Rice_Icon.png?version=b256c01e0989546a132a92c0fdab2da6"
+  },
+  {
+    "name": "Dubious Food",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/63/BotW_Dubious_Food_Icon.png/40px-BotW_Dubious_Food_Icon.png?version=99028b76c76cf104fdfd441680a343d7"
+  },
+  {
+    "name": "Egg Pudding",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/22/BotW_Egg_Pudding_Icon.png/40px-BotW_Egg_Pudding_Icon.png?version=3588264c86950f2827ca5ff341210e3f"
+  },
+  {
+    "name": "Egg Tart",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/1c/BotW_Egg_Tart_Icon.png/40px-BotW_Egg_Tart_Icon.png?version=23449117af7ba204c562a278513a115c"
+  },
+  {
+    "name": "Glazed Meat",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b3/BotW_Glazed_Meat_Icon.png/40px-BotW_Glazed_Meat_Icon.png?version=0c7925b4c527efe5052f9be5348c41c0"
+  },
+  {
+    "name": "Honey Candy",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/20/BotW_Honey_Candy_Icon.png/40px-BotW_Honey_Candy_Icon.png?version=3a5660adda7502950f6b9b6bb5a0e4de"
+  },
+  {
+    "name": "Honeyed Apple",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/dc/BotW_Honeyed_Apple_Icon.png/40px-BotW_Honeyed_Apple_Icon.png?version=8433c5b35ac51d6a5e988d4f32c57049"
+  },
+  {
+    "name": "Fish Skewer",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/59/BotW_Fish_Skewer_Icon.png/40px-BotW_Fish_Skewer_Icon.png?version=1ba5bfe30ea00b6bc3b156ecddbcaae8"
+  },
+  {
+    "name": "Copious Fish Skewers",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6f/BotW_Copious_Fish_Skewers_Icon.png/40px-BotW_Copious_Fish_Skewers_Icon.png?version=5028cf2ca9f1ba70b9cc00366636b925"
+  },
+  {
+    "name": "Fish and Mushroom Skewer",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/2d/BotW_Fish_and_Mushroom_Skewer_Icon.png/40px-BotW_Fish_and_Mushroom_Skewer_Icon.png?version=f1a6a576964bd8e39a2b956d04fd814f"
+  },
+  {
+    "name": "Fish Pie",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/ed/BotW_Fish_Pie_Icon.png/40px-BotW_Fish_Pie_Icon.png?version=ba48a2e6e354ebb3fd22a4bdbcc204b3"
+  },
+  {
+    "name": "Fragrant Mushroom Sauté",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c7/BotW_Fragrant_Mushroom_Saut%C3%A9_Icon.png/40px-BotW_Fragrant_Mushroom_Saut%C3%A9_Icon.png?version=a2879b35553a03588e21d1f06054be59"
+  },
+  {
+    "name": "Fried Bananas",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/fb/BotW_Fried_Bananas_Icon.png/40px-BotW_Fried_Bananas_Icon.png?version=f50bf36294db784e7f523065d6ffbdb3"
+  },
+  {
+    "name": "Fried Egg and Rice",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0a/BotW_Fried_Egg_and_Rice_Icon.png/40px-BotW_Fried_Egg_and_Rice_Icon.png?version=e0e9b5fcc49299174918f07bbede5f0b"
+  },
+  {
+    "name": "Fried Wild Greens",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/ea/BotW_Fried_Wild_Greens_Icon.png/40px-BotW_Fried_Wild_Greens_Icon.png?version=06d56c4b43a0cd674b343307c89c59b1"
+  },
+  {
+    "name": "Copious Fried Wild Greens",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b2/BotW_Copious_Fried_Wild_Greens_Icon.png/40px-BotW_Copious_Fried_Wild_Greens_Icon.png?version=ceaa97aba9c7c8614f32b6cb4bd89610"
+  },
+  {
+    "name": "Fruit and Mushroom Mix",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/7b/BotW_Fruit_and_Mushroom_Mix_Icon.png/40px-BotW_Fruit_and_Mushroom_Mix_Icon.png?version=fae93191a59f09bc888b58977498b0c4"
+  },
+  {
+    "name": "Fruit Pie",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/7a/BotW_Fruit_Pie_Icon.png/40px-BotW_Fruit_Pie_Icon.png?version=51d25c98ec5079e1875bbe660c6587d5"
+  },
+  {
+    "name": "Fruitcake",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/39/BotW_Fruitcake_Icon.png/40px-BotW_Fruitcake_Icon.png?version=2bdca035dc804f6d7aae17e216ee67c1"
+  },
+  {
+    "name": "Glazed Mushrooms",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/61/BotW_Glazed_Mushrooms_Icon.png/40px-BotW_Glazed_Mushrooms_Icon.png?version=f7de73233e44078ef01f8e34a62671c7"
+  },
+  {
+    "name": "Glazed Seafood",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/78/BotW_Glazed_Seafood_Icon.png/40px-BotW_Glazed_Seafood_Icon.png?version=e5575d58d08de8628e5ef9500b39ea78"
+  },
+  {
+    "name": "Glazed Veggies",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/1c/BotW_Glazed_Veggies_Icon.png/40px-BotW_Glazed_Veggies_Icon.png?version=588c6e8647be66b71f70101d02885a2a"
+  },
+  {
+    "name": "Gourmet Meat and Rice Bowl",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/fb/BotW_Gourmet_Meat_and_Rice_Bowl_Icon.png/40px-BotW_Gourmet_Meat_and_Rice_Bowl_Icon.png?version=eb6aa10ec384f40f452b3a129c0099b8"
+  },
+  {
+    "name": "Gourmet Meat and Seafood Fry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/1e/BotW_Gourmet_Meat_and_Seafood_Fry_Icon.png/40px-BotW_Gourmet_Meat_and_Seafood_Fry_Icon.png?version=e14aede89ec108425a2bf413e510e766"
+  },
+  {
+    "name": "Gourmet Meat Curry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/33/BotW_Gourmet_Meat_Curry_Icon.png/40px-BotW_Gourmet_Meat_Curry_Icon.png?version=6df3459e457714b034cd21f38273bcd8"
+  },
+  {
+    "name": "Gourmet Meat Stew",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/55/BotW_Gourmet_Meat_Stew_Icon.png/40px-BotW_Gourmet_Meat_Stew_Icon.png?version=ae1cc176a2ede633251b512681b59f18"
+  },
+  {
+    "name": "Gourmet Poultry Curry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/80/BotW_Gourmet_Poultry_Curry_Icon.png/40px-BotW_Gourmet_Poultry_Curry_Icon.png?version=c3c6a1be53a17e6204c7df2e7e6cf520"
+  },
+  {
+    "name": "Gourmet Poultry Pilaf",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0d/BotW_Gourmet_Poultry_Pilaf_Icon.png/40px-BotW_Gourmet_Poultry_Pilaf_Icon.png?version=eaaec583f0f3fc8ce9f5b0814e6902fa"
+  },
+  {
+    "name": "Gourmet Spiced Meat Skewer",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/8c/BotW_Gourmet_Spiced_Meat_Skewer_Icon.png/40px-BotW_Gourmet_Spiced_Meat_Skewer_Icon.png?version=54a3a983ad1fd678216a00cfa350c955"
+  },
+  {
+    "name": "Clam Chowder",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3b/BotW_Clam_Chowder_Icon.png/40px-BotW_Clam_Chowder_Icon.png?version=df69335ea6eae913b107d73ea5f48161"
+  },
+  {
+    "name": "Salmon Muenière",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/21/BotW_Salmon_Mueni%C3%A8re_Icon.png/40px-BotW_Salmon_Mueni%C3%A8re_Icon.png?version=b45003bb9349ad5ae1020a3208f51c58"
+  },
+  {
+    "name": "Herb Sauté",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/d3/BotW_Herb_Saut%C3%A9_Icon.png/40px-BotW_Herb_Saut%C3%A9_Icon.png?version=2ecfbcfb46b73ed0e949926458cee84f"
+  },
+  {
+    "name": "Honey Crepe",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/18/BotW_Honey_Crepe_Icon.png/40px-BotW_Honey_Crepe_Icon.png?version=d3655ffa8773f937e2f3619c8974c3d0"
+  },
+  {
+    "name": "Honeyed Fruits",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/90/BotW_Honeyed_Fruits_Icon.png/40px-BotW_Honeyed_Fruits_Icon.png?version=0e01b6cd1adae58ab03f456dd8742a57"
+  },
+  {
+    "name": "Hot Buttered Apple",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/bb/BotW_Hot_Buttered_Apple_Icon.png/40px-BotW_Hot_Buttered_Apple_Icon.png?version=f28735e66b87b0e43d0732f00c666065"
+  },
+  {
+    "name": "Meat & Mushroom Skewer",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/86/BotW_Meat_%26_Mushroom_Skewer_Icon.png/40px-BotW_Meat_%26_Mushroom_Skewer_Icon.png?version=30e9fd2037f0faf484ee13ea8d9a67ba"
+  },
+  {
+    "name": "Meat and Rice Bowl",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/e6/BotW_Meat_and_Rice_Bowl_Icon.png/40px-BotW_Meat_and_Rice_Bowl_Icon.png?version=cb5ce99fa3d92c3f7cedae0d2b0d540e"
+  },
+  {
+    "name": "Meat and Seafood Fry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/8a/BotW_Meat_and_Seafood_Fry_Icon.png/40px-BotW_Meat_and_Seafood_Fry_Icon.png?version=c61c34f4827ffabf93106219f58c8969"
+  },
+  {
+    "name": "Meat Curry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/10/BotW_Meat_Curry_Icon.png/40px-BotW_Meat_Curry_Icon.png?version=aacef3f36e5a421227fb828bbf779f67"
+  },
+  {
+    "name": "Meat Pie",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/10/BotW_Meat_Pie_Icon.png/40px-BotW_Meat_Pie_Icon.png?version=edcb670271fe8e0be59600b765dd4693"
+  },
+  {
+    "name": "Meat Skewer",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3f/BotW_Meat_Skewer_Icon.png/40px-BotW_Meat_Skewer_Icon.png?version=e6209461c3ceded8cd8ae81ad7d687ba"
+  },
+  {
+    "name": "Copious Meat Skewers",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/fa/BotW_Copious_Meat_Skewers_Icon.png/40px-BotW_Copious_Meat_Skewers_Icon.png?version=506badaad73015412ed542fc75558de5"
+  },
+  {
+    "name": "Meat Stew",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6e/BotW_Meat_Stew_Icon.png/40px-BotW_Meat_Stew_Icon.png?version=84dacd02fac2a7f7e65dffae20a06562"
+  },
+  {
+    "name": "Meaty Rice Balls",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/81/BotW_Meaty_Rice_Balls_Icon.png/40px-BotW_Meaty_Rice_Balls_Icon.png?version=f95d63abe912e359a735b30953b8b27e"
+  },
+  {
+    "name": "Monster Cake",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/fa/BotW_Monster_Cake_Icon.png/40px-BotW_Monster_Cake_Icon.png?version=20420b49719695eb96e1e1c4d419505a"
+  },
+  {
+    "name": "Monster Curry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/49/BotW_Monster_Curry_Icon.png/40px-BotW_Monster_Curry_Icon.png?version=9ff496e3ba665a16b0a480bcaa6ce321"
+  },
+  {
+    "name": "Monster Rice Balls",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3e/BotW_Monster_Rice_Balls_Icon.png/40px-BotW_Monster_Rice_Balls_Icon.png?version=497dc5cf4c910558d08d2e8e1bccded2"
+  },
+  {
+    "name": "Monster Soup",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/16/BotW_Monster_Soup_Icon.png/40px-BotW_Monster_Soup_Icon.png?version=0a0bcfc052d70d94a5a12ffb94ac7fc5"
+  },
+  {
+    "name": "Monster Stew",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3a/BotW_Monster_Stew_Icon.png/40px-BotW_Monster_Stew_Icon.png?version=9a2b4a6558fb8df0c5fc6c39fe3db51e"
+  },
+  {
+    "name": "Mushroom Omelet",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/a9/BotW_Mushroom_Omelet_Icon.png/40px-BotW_Mushroom_Omelet_Icon.png?version=967942df8d3b489fb88cf19d211dbb5f"
+  },
+  {
+    "name": "Mushroom Rice Balls",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/23/BotW_Mushroom_Rice_Balls_Icon.png/40px-BotW_Mushroom_Rice_Balls_Icon.png?version=66bd3f11b451e1dff34cb098d9735a64"
+  },
+  {
+    "name": "Mushroom Risotto",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3e/BotW_Mushroom_Risotto_Icon.png/40px-BotW_Mushroom_Risotto_Icon.png?version=dc1e8f00fe129b28fc0250e1a13e8476"
+  },
+  {
+    "name": "Mushroom Skewer",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/8a/BotW_Mushroom_Skewer_Icon.png/40px-BotW_Mushroom_Skewer_Icon.png?version=43ba9cffc948daad4fb4aa200c5c4cd7"
+  },
+  {
+    "name": "Copious Mushrooms Skewers",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/27/BotW_Copious_Mushrooms_Skewers_Icon.png/40px-BotW_Copious_Mushrooms_Skewers_Icon.png?version=e6025686d06eaeac56a7a70d28ddda11"
+  },
+  {
+    "name": "Nutcake",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/dd/BotW_Nutcake_Icon.png/40px-BotW_Nutcake_Icon.png?version=d044bcd8926bc874c5c86b3fa713d2b9"
+  },
+  {
+    "name": "Omelet",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/45/BotW_Omelet_Icon.png/40px-BotW_Omelet_Icon.png?version=5e60cb3ba293c5d10d6b972a6355489a"
+  },
+  {
+    "name": "Pepper Seafood",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/ae/BotW_Pepper_Seafood_Icon.png/40px-BotW_Pepper_Seafood_Icon.png?version=7a257a79d7d97ba3f80200dd5acf40be"
+  },
+  {
+    "name": "Plain Crepe",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/19/BotW_Plain_Crepe_Icon.png/40px-BotW_Plain_Crepe_Icon.png?version=c281a87e9126c8db9097e37115ac14c9"
+  },
+  {
+    "name": "Porgy Meunière",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/94/BotW_Porgy_Meuni%C3%A8re_Icon.png/40px-BotW_Porgy_Meuni%C3%A8re_Icon.png?version=06d53827822b1a80b7dfcb3bdebe467d"
+  },
+  {
+    "name": "Poultry Curry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c0/BotW_Poultry_Curry_Icon.png/40px-BotW_Poultry_Curry_Icon.png?version=6594ce360975b77a1fbb2c84b8040b38"
+  },
+  {
+    "name": "Poultry Pilaf",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/d7/BotW_Poultry_Pilaf_Icon.png/40px-BotW_Poultry_Pilaf_Icon.png?version=2065fbcf6a5286446cebc146ba596c17"
+  },
+  {
+    "name": "Prime Meat and Rice Bowl",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/a7/BotW_Prime_Meat_and_Rice_Bowl_Icon.png/40px-BotW_Prime_Meat_and_Rice_Bowl_Icon.png?version=1bf6c99f25aadcb180c0c0ee588027b8"
+  },
+  {
+    "name": "Prime Meat and Seafood Fry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/fc/BotW_Prime_Meat_and_Seafood_Fry_Icon.png/40px-BotW_Prime_Meat_and_Seafood_Fry_Icon.png?version=e4f4f338043e694d926c15da4f16ae1c"
+  },
+  {
+    "name": "Prime Meat Curry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/36/BotW_Prime_Meat_Curry_Icon.png/40px-BotW_Prime_Meat_Curry_Icon.png?version=692819bdc77c84d6cbb9a6521acf829c"
+  },
+  {
+    "name": "Prime Meat Stew",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c8/BotW_Prime_Meat_Stew_Icon.png/40px-BotW_Prime_Meat_Stew_Icon.png?version=2c89427082b0da157747c8d693d68cbb"
+  },
+  {
+    "name": "Prime Poultry Curry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b6/BotW_Prime_Poultry_Curry_Icon.png/40px-BotW_Prime_Poultry_Curry_Icon.png?version=f06f2ec815a05dce7aedbf8bcf1c7e9b"
+  },
+  {
+    "name": "Prime Poultry Pilaf",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/19/BotW_Prime_Poultry_Pilaf_Icon.png/40px-BotW_Prime_Poultry_Pilaf_Icon.png?version=d6ab507d2ad4a68bed1cf0252afca4a7"
+  },
+  {
+    "name": "Prime Spiced Meat Skewer",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/2a/BotW_Prime_Spiced_Meat_Skewer_Icon.png/40px-BotW_Prime_Spiced_Meat_Skewer_Icon.png?version=59319a85205c689fb4b15d842414f9db"
+  },
+  {
+    "name": "Pumpkin Pie",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/53/BotW_Pumpkin_Pie_Icon.png/40px-BotW_Pumpkin_Pie_Icon.png?version=d4a7df857e677eaef74e9042348e0abd"
+  },
+  {
+    "name": "Pumpkin Stew",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b4/BotW_Pumpkin_Stew_Icon.png/40px-BotW_Pumpkin_Stew_Icon.png?version=4218a16922a70dd899783a9c244bfd96"
+  },
+  {
+    "name": "Rock-Hard Food",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/78/BotW_Rock-Hard_Food_Icon.png/50px-BotW_Rock-Hard_Food_Icon.png?version=dabaa7c13e005171c2b133d2dc456d21"
+  },
+  {
+    "name": "Salmon Risotto",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/e0/BotW_Salmon_Risotto_Icon.png/40px-BotW_Salmon_Risotto_Icon.png?version=78bea1b08d7348da9da9048649136727"
+  },
+  {
+    "name": "Salt-Grilled Crab",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b6/BotW_Salt-Grilled_Crab_Icon.png/40px-BotW_Salt-Grilled_Crab_Icon.png?version=81157e0544e0d498b4cf142ef6e692ca"
+  },
+  {
+    "name": "Salt Grilled Fish",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/7e/BotW_Salt_Grilled_Fish_Icon.png/50px-BotW_Salt_Grilled_Fish_Icon.png?version=dc68012e1a83d826df6c161ef0c27284"
+  },
+  {
+    "name": "Salt-Grilled Gourmet Meat",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/97/BotW_Salt-Grilled_Gourmet_Meat_Icon.png/40px-BotW_Salt-Grilled_Gourmet_Meat_Icon.png?version=c9b141adfc23f9ec1443f2dac14faa27"
+  },
+  {
+    "name": "Salt-Grilled Greens",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/dc/BotW_Salt-Grilled_Greens_Icon.png/40px-BotW_Salt-Grilled_Greens_Icon.png?version=f7eece93902c8e5f13df08cfc682538d"
+  },
+  {
+    "name": "Salt-Grilled Meat",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/be/BotW_Salt-Grilled_Meat_Icon.png/40px-BotW_Salt-Grilled_Meat_Icon.png?version=20df661c5f153a66af4a7df9ff82f314"
+  },
+  {
+    "name": "Salt-Grilled Mushrooms",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b1/BotW_Salt-Grilled_Mushrooms_Icon.png/40px-BotW_Salt-Grilled_Mushrooms_Icon.png?version=2680fa64c5feb066b550dfa0e8a45539"
+  },
+  {
+    "name": "Salt-Grilled Prime Meat",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/9f/BotW_Salt-Grilled_Prime_Meat_Icon.png/40px-BotW_Salt-Grilled_Prime_Meat_Icon.png?version=452f68e2adea7746e56f4ec4de028d68"
+  },
+  {
+    "name": "Sautéed Nuts",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/54/BotW_Saut%C3%A9ed_Nuts_Icon.png/40px-BotW_Saut%C3%A9ed_Nuts_Icon.png?version=9ddc0152e6d0e6162937043f9f1d6cc7"
+  },
+  {
+    "name": "Seafood Curry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/22/BotW_Seafood_Curry_Icon.png/40px-BotW_Seafood_Curry_Icon.png?version=341ac6f5138e0a1220b9407396dbdaba"
+  },
+  {
+    "name": "Seafood Fried Rice",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c9/BotW_Seafood_Fried_Rice_Icon.png/40px-BotW_Seafood_Fried_Rice_Icon.png?version=21d3a001f3ec0a37763975b97df97076"
+  },
+  {
+    "name": "Seafood Meunière",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/81/BotW_Seafood_Meuni%C3%A8re_Icon.png/40px-BotW_Seafood_Meuni%C3%A8re_Icon.png?version=6cea7a6fef70da4b3d252c65d81de998"
+  },
+  {
+    "name": "Seafood Paella",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/d3/BotW_Seafood_Paella_Icon.png/40px-BotW_Seafood_Paella_Icon.png?version=715db3d007e3bb00b4820c4ce0ecf7bd"
+  },
+  {
+    "name": "Seafood Rice Balls",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/69/BotW_Seafood_Rice_Balls_Icon.png/40px-BotW_Seafood_Rice_Balls_Icon.png?version=41a3c444e8955dd5346f251970ee22e2"
+  },
+  {
+    "name": "Seafood Skewer",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/dc/BotW_Seafood_Skewer_Icon.png/40px-BotW_Seafood_Skewer_Icon.png?version=2521c10e727df49864b90348db77b5eb"
+  },
+  {
+    "name": "Simmered Fruit",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/ce/BotW_Simmered_Fruit_Icon.png/50px-BotW_Simmered_Fruit_Icon.png?version=e0e00d900de45d67771328ab5960c789"
+  },
+  {
+    "name": "Copious Simmered Fruit",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/ce/BotW_Copious_Simmered_Fruit_Icon.png/40px-BotW_Copious_Simmered_Fruit_Icon.png?version=819c7deaa536c44385ef55db6567129b"
+  },
+  {
+    "name": "Spiced Meat Skewer",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/db/BotW_Spiced_Meat_Skewer_Icon.png/40px-BotW_Spiced_Meat_Skewer_Icon.png?version=e7c9a4972307d203d27a1cb4596e9094"
+  },
+  {
+    "name": "Pepper Steak",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b2/BotW_Pepper_Steak_Icon.png/40px-BotW_Pepper_Steak_Icon.png?version=b7a6f0da93d81f12f257cd7a932f85ad"
+  },
+  {
+    "name": "Sautéed Peppers",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c1/BotW_Saut%C3%A9ed_Peppers_Icon.png/40px-BotW_Saut%C3%A9ed_Peppers_Icon.png?version=ee593057e4cb7ca0d199560f6b6ecd98"
+  },
+  {
+    "name": "Steamed Fish",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/62/BotW_Steamed_Fish_Icon.png/40px-BotW_Steamed_Fish_Icon.png?version=76b0750f88a9cd563e940b5dc99164ad"
+  },
+  {
+    "name": "Steamed Fruit",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/82/BotW_Steamed_Fruit_Icon.png/40px-BotW_Steamed_Fruit_Icon.png?version=f1826b097f0434b4d5b164831a294da0"
+  },
+  {
+    "name": "Steamed Meat",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/5b/BotW_Steamed_Meat_Icon.png/40px-BotW_Steamed_Meat_Icon.png?version=a8c0c2c4fb3d311492d09222cbb9e568"
+  },
+  {
+    "name": "Steamed Mushrooms",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/ae/BotW_Steamed_Mushrooms_Icon.png/40px-BotW_Steamed_Mushrooms_Icon.png?version=c3ee1b5ccc19ee1dfe924d48db496bf5"
+  },
+  {
+    "name": "Meat-Stuffed Pumpkin",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3f/BotW_Meat-Stuffed_Pumpkin_Icon.png/40px-BotW_Meat-Stuffed_Pumpkin_Icon.png?version=4bddf844ab1b605e980e30b3d3fc81e4"
+  },
+  {
+    "name": "Vegetable Curry",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6f/BotW_Vegetable_Curry_Icon.png/40px-BotW_Vegetable_Curry_Icon.png?version=77cf7fa164121b6fc74d0026d206cfb5"
+  },
+  {
+    "name": "Vegetable Omelet",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/58/BotW_Vegetable_Omelet_Icon.png/40px-BotW_Vegetable_Omelet_Icon.png?version=b15433bbb0a042277bc1cf0a1814c2b1"
+  },
+  {
+    "name": "Vegetable Risotto",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3d/BotW_Vegetable_Risotto_Icon.png/40px-BotW_Vegetable_Risotto_Icon.png?version=774c0481cb989db9e250ce85beebbcbc"
+  },
+  {
+    "name": "Veggie Cream Soup",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/86/BotW_Veggie_Cream_Soup_Icon.png/40px-BotW_Veggie_Cream_Soup_Icon.png?version=dfd0da839dfc5066e542da342d4f0e78"
+  },
+  {
+    "name": "Veggie Rice Balls",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/53/BotW_Veggie_Rice_Balls_Icon.png/40px-BotW_Veggie_Rice_Balls_Icon.png?version=acb131d02ba7c6560c4313d6ecaca41e"
+  },
+  {
+    "name": "Warm Milk",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/4d/BotW_Warm_Milk_Icon.png/40px-BotW_Warm_Milk_Icon.png?version=5c33e9a3f900be6956bc529e6ced5279"
+  },
+  {
+    "name": "Wheat Bread",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/22/BotW_Wheat_Bread_Icon.png/40px-BotW_Wheat_Bread_Icon.png?version=1acc74161ed83dfcab89269dc49599dd"
+  },
+  {
+    "name": "Wildberry Crepe",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/42/BotW_Wildberry_Crepe_Icon.png/40px-BotW_Wildberry_Crepe_Icon.png?version=0995eaac12a4bf1002b2ea4808f7693d"
+  },
+  {
+    "name": "Hard-Boiled Egg",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/07/BotW_Hard-Boiled_Egg_Icon.png/40px-BotW_Hard-Boiled_Egg_Icon.png?version=51127ecd6b6d1c742ec4f9fb1743f3bd"
+  }
+]
