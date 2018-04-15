@@ -14,6 +14,7 @@ exports.seed = (knex, Promise) => {
               name: 'Apple',
               resale: '3',
               type: 'Fruit',
+              image: 'www.applepics.com',
             },
             {
               category: 'food',
@@ -23,6 +24,7 @@ exports.seed = (knex, Promise) => {
               name: 'Tabantha Wheat',
               resale: '3',
               type: 'Seasoning',
+              image: 'www.wheat.com',
             },
             {
               category: 'food',
@@ -32,6 +34,7 @@ exports.seed = (knex, Promise) => {
               name: 'Cane Sugar',
               resale: '3',
               type: 'Seasoning',
+              image: 'www.sugar.com',
             },
             {
               category: 'food',
@@ -41,6 +44,7 @@ exports.seed = (knex, Promise) => {
               name: 'Goat Butter',
               resale: '3',
               type: 'Seasoning',
+              image: null,
             },
           ], 'id')
           .then(ingredient =>
