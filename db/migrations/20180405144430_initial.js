@@ -10,7 +10,6 @@ exports.up = function (knex, Promise) {
       table.string('resale');
       table.string('type');
       table.string('image');
-
       table.timestamps(true, true);
     }),
     knex.schema.createTable('recipes', (table) => {
@@ -28,6 +27,7 @@ exports.up = function (knex, Promise) {
       table.string('ingredient3');
       table.string('ingredient4');
       table.string('ingredient5');
+      table.string('image');
       table.integer('ingredient1_id');
       table.foreign('ingredient1_id').references('ingredients.id');
       table.integer('ingredient2_id');
