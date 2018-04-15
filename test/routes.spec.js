@@ -66,6 +66,9 @@ describe('API routes', () => {
             response.body[0].should.have.property('type');
             response.body[0].type.should.equal('Fruit');
 
+            response.body[0].should.have.property('image');
+            response.body[0].image.should.equal('www.applepics.com') 
+
             response.body[0].should.have.property('created_at');
             response.body[0].should.have.property('updated_at');
           })
@@ -89,6 +92,7 @@ describe('API routes', () => {
             response.body[0].name.should.equal('Apple');
             response.body[0].resale.should.equal('3');
             response.body[0].type.should.equal('Fruit');
+            response.body[0].image.should.equal('www.applepics.com');
           }));
 
       it('should return 404 if ingredient with requested id does not exist', () =>
