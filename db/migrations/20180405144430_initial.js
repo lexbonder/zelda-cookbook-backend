@@ -9,6 +9,7 @@ exports.up = function (knex, Promise) {
       table.string('name');
       table.string('resale');
       table.string('type');
+      table.string('image');
 
       table.timestamps(true, true);
     }),

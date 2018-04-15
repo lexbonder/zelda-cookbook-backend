@@ -6,7 +6,8 @@
     "hearts": "0.25",
     "name": "Acorn",
     "resale": "2",
-    "type": "Seasoning"
+    "type": "Seasoning",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/66/BotW_Acorn_Icon.png/40px-BotW_Acorn_Icon.png?version=4e3b6b85bbb1f240eaa7b03f263bee1b"
   },
   {
     "category": "food",
@@ -15,7 +16,8 @@
     "hearts": "0.5",
     "name": "Apple",
     "resale": "3",
-    "type": "Fruit"
+    "type": "Fruit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/f2/BotW_Apple_Icon.png/40px-BotW_Apple_Icon.png?version=f974e8c634aa8850c92c24c569bc9633"
   },
   {
     "category": "food",
@@ -24,7 +26,8 @@
     "hearts": "0",
     "name": "Armoranth",
     "resale": "5",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b3/BotW_Armoranth_Icon.png/40px-BotW_Armoranth_Icon.png?version=600fa20a51d67421dd0417decb942f92"
   },
   {
     "category": "food",
@@ -33,7 +36,8 @@
     "hearts": "1",
     "name": "Armored Carp",
     "resale": "10",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/86/BotW_Armored_Carp_Icon.png/40px-BotW_Armored_Carp_Icon.png?version=e36a083445053cffda0f47d7c13b3b30"
   },
   {
     "category": "food",
@@ -42,7 +46,8 @@
     "hearts": "1",
     "name": "Armored Porgy",
     "resale": "10",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/60/BotW_Armored_Porgy_Icon.png/40px-BotW_Armored_Porgy_Icon.png?version=3b291385fe14457c888473473b68bcd3"
   },
   {
     "category": "food",
@@ -51,7 +56,8 @@
     "hearts": "4",
     "name": "Big Hearty Radish",
     "resale": "15",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3a/BotW_Big_Hearty_Radish_Icon.png/40px-BotW_Big_Hearty_Radish_Icon.png?version=9760ed01730c0c2c0ca7dbc0c0ccd7e5"
   },
   {
     "category": "food",
@@ -60,7 +66,8 @@
     "hearts": "3",
     "name": "Big Hearty Truffle",
     "resale": "15",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/69/BotW_Big_Hearty_Truffle_Icon.png/40px-BotW_Big_Hearty_Truffle_Icon.png?version=60598f3d71e5e132d13ab45f7fff591f"
   },
   {
     "category": "food",
@@ -69,7 +76,8 @@
     "hearts": "1",
     "name": "Bird Egg",
     "resale": "3",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/75/BotW_Bird_Egg_Icon.png/40px-BotW_Bird_Egg_Icon.png?version=57dc8495ebdd66e365f20cc8128c87d8"
   },
   {
     "category": "food",
@@ -78,7 +86,8 @@
     "hearts": "0",
     "name": "Blue Nightshade",
     "resale": "4",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/a5/BotW_Blue_Nightshade_Icon.png/40px-BotW_Blue_Nightshade_Icon.png?version=9152dbd7b36f6745881ddf51333105d1"
   },
   {
     "category": "food",
@@ -87,7 +96,8 @@
     "hearts": "1",
     "name": "Bright-eyed Crab",
     "resale": "10",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/db/BotW_Bright-Eyed_Crab_Icon.png/40px-BotW_Bright-Eyed_Crab_Icon.png?version=64159bfce88bded968f86c2cfb27cf05"
   },
   {
     "category": "food",
@@ -96,7 +106,8 @@
     "hearts": "0",
     "name": "Cane Sugar",
     "resale": "3",
-    "type": "Seasoning"
+    "type": "Seasoning",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b5/BotW_Cane_Sugar_Icon.png/40px-BotW_Cane_Sugar_Icon.png?version=24b0402cb942893de116c4277a5bfd47"
   },
   {
     "category": "food",
@@ -105,7 +116,8 @@
     "hearts": "0.25",
     "name": "Chickaloo Tree Nut",
     "resale": "3",
-    "type": "Seasoning"
+    "type": "Seasoning",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/04/BotW_Chickaloo_Tree_Nut_Icon.png/40px-BotW_Chickaloo_Tree_Nut_Icon.png?version=e9ef002335d885e05dc351c7f289b5a7"
   },
   {
     "category": "food",
@@ -114,7 +126,8 @@
     "hearts": "1",
     "name": "Chillfin Trout",
     "resale": "6",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/15/BotW_Chillfin_Trout_Icon.png/40px-BotW_Chillfin_Trout_Icon.png?version=9f2a9b53b093852bc6ac02ea016779ce"
   },
   {
     "category": "food",
@@ -123,7 +136,8 @@
     "hearts": "0.5",
     "name": "Chillshroom",
     "resale": "4",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/26/BotW_Chillshroom_Icon.png/40px-BotW_Chillshroom_Icon.png?version=266d91b5af5b0db13e79c15ea6e48b14"
   },
   {
     "category": "food",
@@ -132,7 +146,8 @@
     "hearts": "0",
     "name": "Cool Safflina",
     "resale": "3",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/7d/BotW_Cool_Safflina_Icon.png/40px-BotW_Cool_Safflina_Icon.png?version=380c90aff97181a7a4aa701643a68409"
   },
   {
     "category": "food",
@@ -141,7 +156,8 @@
     "hearts": "2",
     "name": "Courser Bee Honey",
     "resale": "10",
-    "type": "Seasoning"
+    "type": "Seasoning",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/fd/BotW_Courser_Bee_Honey_Icon.png/40px-BotW_Courser_Bee_Honey_Icon.png?version=7f6f039f10c3077ede13207e50ba8424"
   },
   {
     "category": "food",
@@ -150,7 +166,8 @@
     "hearts": "0",
     "name": "Electric Safflina",
     "resale": "3",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/42/BotW_Electric_Safflina_Icon.png/40px-BotW_Electric_Safflina_Icon.png?version=458e4185fef5209773763216986d96bf"
   },
   {
     "category": "food",
@@ -159,7 +176,8 @@
     "hearts": "2",
     "name": "Endura Carrot",
     "resale": "30",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/09/BotW_Endura_Carrot_Icon.png/40px-BotW_Endura_Carrot_Icon.png?version=3b206a2fffb6cdd7c6a9664e4a298b00"
   },
   {
     "category": "food",
@@ -168,7 +186,8 @@
     "hearts": "1",
     "name": "Endura Shroom",
     "resale": "6",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/29/BotW_Endura_Shroom_Icon.png/40px-BotW_Endura_Shroom_Icon.png?version=50a828d88341db47c6c494901caa93ba"
   },
   {
     "category": "food",
@@ -177,7 +196,8 @@
     "hearts": "5",
     "name": "Fairy",
     "resale": "2",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/9c/BotW_Fairy_Icon.png/40px-BotW_Fairy_Icon.png?version=f7e5ba5a76944315e77300797f00f5fe"
   },
   {
     "category": "food",
@@ -186,7 +206,8 @@
     "hearts": "0.5",
     "name": "Fleet-Lotus Seeds",
     "resale": "5",
-    "type": "Fruit"
+    "type": "Fruit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/5e/BotW_Fleet-Lotus_Seeds_Icon.png/40px-BotW_Fleet-Lotus_Seeds_Icon.png?version=bf9651543769381e8dff44f0f2adb622"
   },
   {
     "category": "food",
@@ -195,7 +216,8 @@
     "hearts": "0.5",
     "name": "Fortified Pumpkin",
     "resale": "5",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/ec/BotW_Fortified_Pumpkin_Icon.png/40px-BotW_Fortified_Pumpkin_Icon.png?version=fdd6270e04667bd7a02cf744111acbed"
   },
   {
     "category": "food",
@@ -204,7 +226,8 @@
     "hearts": "0.5",
     "name": "Fresh Milk",
     "resale": "3",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6a/BotW_Fresh_Milk_Icon.png/40px-BotW_Fresh_Milk_Icon.png?version=523ae3b0298368cb4185270a80c2db9e"
   },
   {
     "category": "food",
@@ -213,7 +236,8 @@
     "hearts": "0",
     "name": "Goat Butter",
     "resale": "3",
-    "type": "Seasoning"
+    "type": "Seasoning",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/76/BotW_Goat_Butter_Icon.png/40px-BotW_Goat_Butter_Icon.png?version=01f3ac433836485f0fa8646add382b63"
   },
   {
     "category": "food",
@@ -222,7 +246,8 @@
     "hearts": "0",
     "name": "Goron Spice",
     "resale": "4",
-    "type": "Seasoning"
+    "type": "Seasoning",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6f/BotW_Goron_Spice_Icon.png/40px-BotW_Goron_Spice_Icon.png?version=b29a8330be833ffe051dbd68aa4957eb"
   },
   {
     "category": "food",
@@ -231,7 +256,8 @@
     "hearts": "2",
     "name": "Hearty Bass",
     "resale": "18",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0c/BotW_Hearty_Bass_Icon.png/40px-BotW_Hearty_Bass_Icon.png?version=1b4cd51b278e9666d58c07f803ae46f5"
   },
   {
     "category": "food",
@@ -240,7 +266,8 @@
     "hearts": "3",
     "name": "Hearty Blueshell Snail",
     "resale": "15",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/66/BotW_Hearty_Blueshell_Snail_Icon.png/40px-BotW_Hearty_Blueshell_Snail_Icon.png?version=06975c0e417356682dacd94494b9f455"
   },
   {
     "category": "food",
@@ -249,7 +276,8 @@
     "hearts": "3",
     "name": "Hearty Durian",
     "resale": "15",
-    "type": "Fruit"
+    "type": "Fruit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/83/BotW_Hearty_Durian_Icon.png/40px-BotW_Hearty_Durian_Icon.png?version=e6468e46a6bad969f09ab9484eeafd5c"
   },
   {
     "category": "food",
@@ -258,7 +286,8 @@
     "hearts": "2.5",
     "name": "Hearty Radish",
     "resale": "8",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3e/BotW_Hearty_Radish_Icon.png/40px-BotW_Hearty_Radish_Icon.png?version=53c32d55b20ef954f0630b6840c6cbf1"
   },
   {
     "category": "food",
@@ -267,7 +296,8 @@
     "hearts": "4",
     "name": "Hearty Salmon",
     "resale": "10",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/81/BotW_Hearty_Salmon_Icon.png/40px-BotW_Hearty_Salmon_Icon.png?version=6ccf79cb7e7199efc7d1ef2c5e1fe934"
   },
   {
     "category": "food",
@@ -276,7 +306,8 @@
     "hearts": "2",
     "name": "Hearty Truffle",
     "resale": "6",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/cc/BotW_Hearty_Truffle_Icon.png/40px-BotW_Hearty_Truffle_Icon.png?version=ed924719bbca06896aa1f45593e5d239"
   },
   {
     "category": "food",
@@ -285,7 +316,8 @@
     "hearts": "0.5",
     "name": "Hydromelon",
     "resale": "4",
-    "type": "Fruit"
+    "type": "Fruit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/b0/BotW_Hydromelon_Icon.png/40px-BotW_Hydromelon_Icon.png?version=32819b80afbeace58abe9e17319be379"
   },
   {
     "category": "food",
@@ -294,7 +326,8 @@
     "hearts": "1",
     "name": "Hylian Rice",
     "resale": "3",
-    "type": "Seasoning"
+    "type": "Seasoning",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/67/BotW_Hylian_Rice_Icon.png/40px-BotW_Hylian_Rice_Icon.png?version=7335f051cc799c5907f6f4fc2908e3e8"
   },
   {
     "category": "food",
@@ -303,7 +336,8 @@
     "hearts": "0.5",
     "name": "Hylian Shroom",
     "resale": "3",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/13/BotW_Hylian_Shroom_Icon.png/40px-BotW_Hylian_Shroom_Icon.png?version=07aeb3c4dd8922246ab4aa2af0ff9a76"
   },
   {
     "category": "food",
@@ -312,7 +346,8 @@
     "hearts": "1",
     "name": "Hyrule Bass",
     "resale": "6",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/66/BotW_Hyrule_Bass_Icon.png/40px-BotW_Hyrule_Bass_Icon.png?version=ecd0218041e8ecd3307fd88eb0c38b11"
   },
   {
     "category": "food",
@@ -321,7 +356,8 @@
     "hearts": "1",
     "name": "Hyrule Herb",
     "resale": "3",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3d/BotW_Hyrule_Herb_Icon.png/40px-BotW_Hyrule_Herb_Icon.png?version=5f8f8615322c59b89d7ffb2d70d5a464"
   },
   {
     "category": "food",
@@ -330,7 +366,8 @@
     "hearts": "1",
     "name": "Ironshell Crab",
     "resale": "8",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/1c/BotW_Ironshell_Crab_Icon.png/40px-BotW_Ironshell_Crab_Icon.png?version=171ec64f37bb63e2f432819454c68beb"
   },
   {
     "category": "food",
@@ -339,7 +376,8 @@
     "hearts": "0.5",
     "name": "Ironshroom",
     "resale": "5",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/80/BotW_Ironshroom_Icon.png/40px-BotW_Ironshroom_Icon.png?version=c0fb0336ae1cba5f1a0dca7f99d4c222"
   },
   {
     "category": "food",
@@ -348,7 +386,8 @@
     "hearts": "0.5",
     "name": "Mighty Bananas",
     "resale": "5",
-    "type": "Fruit"
+    "type": "Fruit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/57/BotW_Mighty_Bananas_Icon.png/40px-BotW_Mighty_Bananas_Icon.png?version=20d69a7c70c8590d28a9c17b113ce078"
   },
   {
     "category": "food",
@@ -357,7 +396,8 @@
     "hearts": "1",
     "name": "Mighty Carp",
     "resale": "10",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c8/BotW_Mighty_Carp_Icon.png/40px-BotW_Mighty_Carp_Icon.png?version=82bb5d7c9ac0a32566a278a60b828a57"
   },
   {
     "category": "food",
@@ -366,7 +406,8 @@
     "hearts": "1",
     "name": "Mighty Porgy",
     "resale": "10",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/72/BotW_Mighty_Porgy_Icon.png/40px-BotW_Mighty_Porgy_Icon.png?version=62df4aac2156ae59ab26ad1197ad56e0"
   },
   {
     "category": "food",
@@ -375,7 +416,8 @@
     "hearts": "0",
     "name": "Mighty Thistle",
     "resale": "5",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/76/BotW_Mighty_Thistle_Icon.png/40px-BotW_Mighty_Thistle_Icon.png?version=88729ebb2a6a825d4d31e92a3c079a45"
   },
   {
     "category": "food",
@@ -384,7 +426,8 @@
     "hearts": "",
     "name": "Monster Extract",
     "resale": "3",
-    "type": "Other"
+    "type": "Other",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/a3/BotW_Monster_Extract_Icon.png/40px-BotW_Monster_Extract_Icon.png?version=e0bafe4bf657525d21eb23e2bae69015"
   },
   {
     "category": "food",
@@ -393,7 +436,8 @@
     "hearts": "1",
     "name": "Palm Fruit",
     "resale": "4",
-    "type": "Fruit"
+    "type": "Fruit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/93/BotW_Palm_Fruit_Icon.png/40px-BotW_Palm_Fruit_Icon.png?version=90e0820db0db214de4a80995475c1259"
   },
   {
     "category": "food",
@@ -402,7 +446,8 @@
     "hearts": "1",
     "name": "Raw Bird Drumstick",
     "resale": "8",
-    "type": "Meat"
+    "type": "Meat",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c5/BotW_Raw_Bird_Drumstick_Icon.png/40px-BotW_Raw_Bird_Drumstick_Icon.png?version=61bddd1d3d4c4894ecdce66eb81fad18"
   },
   {
     "category": "food",
@@ -411,7 +456,8 @@
     "hearts": "1.5",
     "name": "Raw Bird Thigh",
     "resale": "15",
-    "type": "Meat"
+    "type": "Meat",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/77/BotW_Raw_Bird_Thigh_Icon.png/40px-BotW_Raw_Bird_Thigh_Icon.png?version=fad700f26dd49670fd132d8ae63963a2"
   },
   {
     "category": "food",
@@ -420,7 +466,8 @@
     "hearts": "3",
     "name": "Raw Gourmet Meat",
     "resale": "35",
-    "type": "Meat"
+    "type": "Meat",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6f/BotW_Raw_Gourmet_Meat_Icon.png/40px-BotW_Raw_Gourmet_Meat_Icon.png?version=8a351fd9c03c999ca7846dd5eb8c13fe"
   },
   {
     "category": "food",
@@ -429,7 +476,8 @@
     "hearts": "1",
     "name": "Raw Meat",
     "resale": "8",
-    "type": "Meat"
+    "type": "Meat",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/52/BotW_Raw_Meat_Icon.png/40px-BotW_Raw_Meat_Icon.png?version=9e202229c5e80d917341751a138ed3e4"
   },
   {
     "category": "food",
@@ -438,7 +486,8 @@
     "hearts": "1.5",
     "name": "Raw Prime Meat",
     "resale": "15",
-    "type": "Meat"
+    "type": "Meat",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c3/BotW_Raw_Prime_Meat_Icon.png/40px-BotW_Raw_Prime_Meat_Icon.png?version=e26f8df9b4e614dc77a42f30450d24f4"
   },
   {
     "category": "food",
@@ -447,7 +496,8 @@
     "hearts": "3",
     "name": "Raw Whole Bird",
     "resale": "35",
-    "type": "Meat"
+    "type": "Meat",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/05/BotW_Raw_Whole_Bird_Icon.png/40px-BotW_Raw_Whole_Bird_Icon.png?version=b95495347411ab0926e1bb9a0efd57a9"
   },
   {
     "category": "food",
@@ -456,7 +506,8 @@
     "hearts": "1",
     "name": "Razorclaw Crab",
     "resale": "8",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/56/BotW_Razorclaw_Crab_Icon.png/40px-BotW_Razorclaw_Crab_Icon.png?version=724c5b7c2a4dfb20769b7bf7a8a4530e"
   },
   {
     "category": "food",
@@ -465,7 +516,8 @@
     "hearts": "0.5",
     "name": "Razorshroom",
     "resale": "5",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/62/BotW_Razorshroom_Icon.png/40px-BotW_Razorshroom_Icon.png?version=5b2c3f1975f7a0574b65b94b86bb52f4"
   },
   {
     "category": "food",
@@ -474,7 +526,8 @@
     "hearts": "0",
     "name": "Rock Salt",
     "resale": "2",
-    "type": "Seasoning"
+    "type": "Seasoning",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/21/BotW_Rock_Salt_Icon.png/40px-BotW_Rock_Salt_Icon.png?version=f1dccbef585a92ab3d63751983852e46"
   },
   {
     "category": "food",
@@ -483,7 +536,8 @@
     "hearts": "0.5",
     "name": "Rushroom",
     "resale": "3",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/55/BotW_Rushroom_Icon.png/40px-BotW_Rushroom_Icon.png?version=1909758e1152962cbc1b1af909fb7500"
   },
   {
     "category": "food",
@@ -492,7 +546,8 @@
     "hearts": "1",
     "name": "Silent Princess",
     "resale": "10",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/48/BotW_Silent_Princess_Icon.png/40px-BotW_Silent_Princess_Icon.png?version=eec59006535a1b43d628a822cd8ea75e"
   },
   {
     "category": "food",
@@ -501,7 +556,8 @@
     "hearts": "0.5",
     "name": "Silent Shroom",
     "resale": "3",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/36/BotW_Silent_Shroom_Icon.png/40px-BotW_Silent_Shroom_Icon.png?version=b56f4e6991e75fb1efca459f45d25558"
   },
   {
     "category": "food",
@@ -510,7 +566,8 @@
     "hearts": "1",
     "name": "Sizzlefin Trout",
     "resale": "6",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/69/BotW_Sizzlefin_Trout_Icon.png/40px-BotW_Sizzlefin_Trout_Icon.png?version=a2c23b8229b9499d9154c9413ab84fb9"
   },
   {
     "category": "food",
@@ -519,7 +576,8 @@
     "hearts": "1",
     "name": "Sanke Carp",
     "resale": "20",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/9c/BotW_Sanke_Carp_Icon.png/40px-BotW_Sanke_Carp_Icon.png?version=ccef0ecb1f76784a7c82306eb6c991a1"
   },
   {
     "category": "food",
@@ -528,7 +586,8 @@
     "hearts": "1",
     "name": "Sneaky River Snail",
     "resale": "6",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/82/BotW_Sneaky_River_Snail_Icon.png/40px-BotW_Sneaky_River_Snail_Icon.png?version=8b45c183a92b18ccae708580ae00900e"
   },
   {
     "category": "food",
@@ -537,7 +596,8 @@
     "hearts": "0.5",
     "name": "Spicy Pepper",
     "resale": "3",
-    "type": "Fruit"
+    "type": "Fruit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0c/BotW_Spicy_Pepper_Icon.png/40px-BotW_Spicy_Pepper_Icon.png?version=4f61d5e3ed3e8d1ff1408b030fd38f40"
   },
   {
     "category": "food",
@@ -546,7 +606,8 @@
     "hearts": "0.5",
     "name": "Stamella Shroom",
     "resale": "5",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c2/BotW_Stamella_Shroom_Icon.png/40px-BotW_Stamella_Shroom_Icon.png?version=2273a0df0cfaa13647bebd0ba2202d70"
   },
   {
     "category": "food",
@@ -555,7 +616,8 @@
     "hearts": "1",
     "name": "Staminoka Bass",
     "resale": "18",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/79/BotW_Staminoka_Bass_Icon.png/40px-BotW_Staminoka_Bass_Icon.png?version=703e2499e51f2e3f2bce43a3f95d70c1"
   },
   {
     "category": "food",
@@ -564,7 +626,8 @@
     "hearts": "",
     "name": "Star Fragment",
     "resale": "300",
-    "type": "Other"
+    "type": "Other",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/59/BotW_Star_Fragment_Icon.png/40px-BotW_Star_Fragment_Icon.png?version=01c2587f2c05403700ed0ad03f9ef442"
   },
   {
     "category": "food",
@@ -573,7 +636,8 @@
     "hearts": "1",
     "name": "Stealthfin Trout",
     "resale": "10",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/d6/BotW_Stealthfin_Trout_Icon.png/40px-BotW_Stealthfin_Trout_Icon.png?version=2905be585ac8e6ac4206ec5118b42e63"
   },
   {
     "category": "food",
@@ -582,7 +646,8 @@
     "hearts": "0.5",
     "name": "Sunshroom",
     "resale": "4",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/5d/BotW_Sunshroom_Icon.png/40px-BotW_Sunshroom_Icon.png?version=0fc2382ad3f521ecf8d55caed4a43ec2"
   },
   {
     "category": "food",
@@ -591,7 +656,8 @@
     "hearts": "0.5",
     "name": "Swift Carrot",
     "resale": "4",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/32/BotW_Swift_Carrot_Icon.png/40px-BotW_Swift_Carrot_Icon.png?version=0c97c802f8854411120fde4023bb50da"
   },
   {
     "category": "food",
@@ -600,7 +666,8 @@
     "hearts": "0",
     "name": "Swift Violet",
     "resale": "10",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/e1/BotW_Swift_Violet_Icon.png/40px-BotW_Swift_Violet_Icon.png?version=7ecb5e93264220a26d26988c55c07237"
   },
   {
     "category": "food",
@@ -609,7 +676,8 @@
     "hearts": "1",
     "name": "Tabantha Wheat",
     "resale": "3",
-    "type": "Seasoning"
+    "type": "Seasoning",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/a3/BotW_Tabantha_Wheat_Icon.png/40px-BotW_Tabantha_Wheat_Icon.png?version=d173d9d177535b3dfc36ab681dfc85e7"
   },
   {
     "category": "food",
@@ -618,7 +686,8 @@
     "hearts": "1",
     "name": "Voltfin Trout",
     "resale": "6",
-    "type": "Seafood"
+    "type": "Seafood",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/1b/BotW_Voltfin_Trout_Icon.png/40px-BotW_Voltfin_Trout_Icon.png?version=ea4e4a7a5559ae655be4a846e8df1df0"
   },
   {
     "category": "food",
@@ -627,7 +696,8 @@
     "hearts": "0.5",
     "name": "Voltfruit",
     "resale": "4",
-    "type": "Fruit"
+    "type": "Fruit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/e1/BotW_Voltfruit_Icon.png/40px-BotW_Voltfruit_Icon.png?version=be423bc89a269ab3932a30e6d4696d76"
   },
   {
     "category": "food",
@@ -636,7 +706,8 @@
     "hearts": "0",
     "name": "Warm Safflina",
     "resale": "3",
-    "type": "Green"
+    "type": "Green",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/ea/BotW_Warm_Safflina_Icon.png/40px-BotW_Warm_Safflina_Icon.png?version=29f61e2616934e1a304d08a3a09bb5d6"
   },
   {
     "category": "food",
@@ -645,7 +716,8 @@
     "hearts": "0.5",
     "name": "Wildberry",
     "resale": "3",
-    "type": "Fruit"
+    "type": "Fruit",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/10/BotW_Wildberry_Icon.png/40px-BotW_Wildberry_Icon.png?version=8b75fb7b562c81d24ddf5d7183945d47"
   },
   {
     "category": "food",
@@ -654,7 +726,8 @@
     "hearts": "0.5",
     "name": "Zapshroom",
     "resale": "4",
-    "type": "Mushroom"
+    "type": "Mushroom",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6c/BotW_Zapshroom_Icon.png/40px-BotW_Zapshroom_Icon.png?version=fae3267508d4a7fc8259dd61b09ce078"
   },
   {
     "category": "food",
@@ -663,7 +736,8 @@
     "hearts": "0.625",
     "name": "Dinraal’s Scale",
     "resale": "1",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/81/BotW_Dinraal%27s_Scale_Icon.png/40px-BotW_Dinraal%27s_Scale_Icon.png?version=f2b0890065e48f2dcef334098bee2822"
   },
   {
     "category": "food",
@@ -672,7 +746,8 @@
     "hearts": "1",
     "name": "Dinraal’s Claw",
     "resale": "1",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/e/e9/BotW_Dinraal%27s_Claw_Icon.png/40px-BotW_Dinraal%27s_Claw_Icon.png?version=de88463a427533119ea413d89de8c0c3"
   },
   {
     "category": "food",
@@ -681,7 +756,8 @@
     "hearts": "1.25",
     "name": "Shard of Dinraal’s Fang",
     "resale": "1",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/81/BotW_Shard_of_Dinraal%27s_Fang_Icon.png/40px-BotW_Shard_of_Dinraal%27s_Fang_Icon.png?version=7b6269da45425ab8548786533ecefbd8"
   },
   {
     "category": "food",
@@ -690,7 +766,8 @@
     "hearts": "1.875",
     "name": "Shard of Dinraal’s Horn",
     "resale": "1",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/39/BotW_Shard_of_Dinraal%27s_Horn_Icon.png/40px-BotW_Shard_of_Dinraal%27s_Horn_Icon.png?version=93341aba3c837907ae54109de266bd24"
   },
   {
     "category": "food",
@@ -699,7 +776,8 @@
     "hearts": "0.625",
     "name": "Naydra’s Scale",
     "resale": "1",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/35/BotW_Naydra%27s_Scale_Icon.png/40px-BotW_Naydra%27s_Scale_Icon.png?version=9bba47b368cb90a1d4d8dcfb59c2ec1a"
   },
   {
     "category": "food",
@@ -708,7 +786,8 @@
     "hearts": "1",
     "name": "Naydra’s Claw",
     "resale": "1",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/65/BotW_Naydra%27s_Claw_Icon.png/40px-BotW_Naydra%27s_Claw_Icon.png?version=422d4e7925c115dfc899fd6486e96239"
   },
   {
     "category": "food",
@@ -717,7 +796,8 @@
     "hearts": "1.25",
     "name": "Shard of Naydra’s Fang",
     "resale": "1",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/64/BotW_Shard_of_Naydra%27s_Fang_Icon.png/40px-BotW_Shard_of_Naydra%27s_Fang_Icon.png?version=247f56b2d5e6e543da4b59424a890f9c"
   },
   {
     "category": "food",
@@ -726,7 +806,8 @@
     "hearts": "1.875",
     "name": "Shard of Naydra’s Horn",
     "resale": "1",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/af/BotW_Shard_of_Naydra%27s_Horn_Icon.png/40px-BotW_Shard_of_Naydra%27s_Horn_Icon.png?version=75c7a3601ac25ecb6c605198e53fad20"
   },
   {
     "category": "food",
@@ -735,7 +816,8 @@
     "hearts": "0.625",
     "name": "Farosh’s Scale",
     "resale": "150",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/80/BotW_Farosh%27s_Scale_Icon.png/40px-BotW_Farosh%27s_Scale_Icon.png?version=648af0899655ec46352b0229ebbb689e"
   },
   {
     "category": "food",
@@ -744,7 +826,8 @@
     "hearts": "1",
     "name": "Farosh’s Claw",
     "resale": "1",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c0/BotW_Farosh%27s_Claw_Icon.png/40px-BotW_Farosh%27s_Claw_Icon.png?version=67d7cf5be4e0c25dd442d249df607c6a"
   },
   {
     "category": "food",
@@ -753,7 +836,8 @@
     "hearts": "1.25",
     "name": "Shard of Farosh’s Fang",
     "resale": "250",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/10/BotW_Shard_of_Farosh%27s_Fang_Icon.png/40px-BotW_Shard_of_Farosh%27s_Fang_Icon.png?version=0f6f001cff2167323b8e58d8d36ca360"
   },
   {
     "category": "food",
@@ -762,7 +846,8 @@
     "hearts": "1.875",
     "name": "Shard of Farosh’s Horn",
     "resale": "300",
-    "type": "Filler"
+    "type": "Filler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/93/BotW_Shard_of_Farosh%27s_Horn_Icon.png/40px-BotW_Shard_of_Farosh%27s_Horn_Icon.png?version=1f8ddf3d7acfc6d56c9fc46881c59acb"
   },
   {
     "category": "critters",
@@ -771,7 +856,8 @@
     "hearts": null,
     "name": "Bladed Rhino Beetle",
     "resale": "4",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/d4/BotW_Bladed_Rhino_Beetle_Icon.png/40px-BotW_Bladed_Rhino_Beetle_Icon.png?version=faad3b8153434be8a99205155b7f8a75"
   },
   {
     "category": "critters",
@@ -780,7 +866,8 @@
     "hearts": null,
     "name": "Cold Darner",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0f/BotW_Cold_Darner_Icon.png/40px-BotW_Cold_Darner_Icon.png?version=4a0b70d330b4c417bc7c987e497c53dc"
   },
   {
     "category": "critters",
@@ -789,7 +876,8 @@
     "hearts": null,
     "name": "Electric Darner",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/f0/BotW_Electric_Darner_Icon.png/40px-BotW_Electric_Darner_Icon.png?version=f355e5b2004b1b245acdd8b63f83a64a"
   },
   {
     "category": "critters",
@@ -798,7 +886,8 @@
     "hearts": null,
     "name": "Energetic Rhino Beetle",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/40/BotW_Energetic_Rhino_Beetle_Icon.png/40px-BotW_Energetic_Rhino_Beetle_Icon.png?version=90713e96265fa34bbb20c4d957913f0e"
   },
   {
     "category": "critters",
@@ -807,7 +896,8 @@
     "hearts": null,
     "name": "Fireproof Lizard",
     "resale": "5",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0a/BotW_Fireproof_Lizard_Icon.png/40px-BotW_Fireproof_Lizard_Icon.png?version=9efd0c2f01c4841e7c91f7741f61ae7c"
   },
   {
     "category": "critters",
@@ -816,7 +906,8 @@
     "hearts": null,
     "name": "Hearty Lizard",
     "resale": "20",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/96/BotW_Hearty_Lizard_Icon.png/40px-BotW_Hearty_Lizard_Icon.png?version=43769609fe70b1ca1829d98faea3758b"
   },
   {
     "category": "critters",
@@ -825,7 +916,8 @@
     "hearts": null,
     "name": "Hightail Lizard",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6f/BotW_Hightail_Lizard_Icon.png/40px-BotW_Hightail_Lizard_Icon.png?version=962073d4729a3394f2336f4740ba7807"
   },
   {
     "category": "critters",
@@ -834,7 +926,8 @@
     "hearts": null,
     "name": "Hot-Footed Frog",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/4d/BotW_Hot-Footed_Frog_Icon.png/40px-BotW_Hot-Footed_Frog_Icon.png?version=6c5fa6b78256ff6018612dcc72ad7816"
   },
   {
     "category": "critters",
@@ -843,7 +936,8 @@
     "hearts": null,
     "name": "Restless Cricket",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/99/BotW_Restless_Cricket_Icon.png/40px-BotW_Restless_Cricket_Icon.png?version=4abf7d1efd52441594de514e4391fdce"
   },
   {
     "category": "critters",
@@ -852,7 +946,8 @@
     "hearts": null,
     "name": "Rugged Rhino Beetle",
     "resale": "4",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/f0/BotW_Rugged_Rhino_Beetle_Icon.png/40px-BotW_Rugged_Rhino_Beetle_Icon.png?version=4c099fd54d34003dfbef9af3f3acb1c5"
   },
   {
     "category": "critters",
@@ -861,7 +956,8 @@
     "hearts": null,
     "name": "Smotherwing Butterfly",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/85/BotW_Smotherwing_Butterfly_Icon.png/40px-BotW_Smotherwing_Butterfly_Icon.png?version=88a5a25ed28ff4c2cff926ab1573bb6d"
   },
   {
     "category": "critters",
@@ -870,7 +966,8 @@
     "hearts": null,
     "name": "Summerwing Butterfly",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/a3/BotW_Summerwing_Butterfly_Icon.png/40px-BotW_Summerwing_Butterfly_Icon.png?version=55a882d1782a110b1d69d19f634ac937"
   },
   {
     "category": "critters",
@@ -879,7 +976,8 @@
     "hearts": null,
     "name": "Sunset Firefly",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/bb/BotW_Sunset_Firefly_Icon.png/40px-BotW_Sunset_Firefly_Icon.png?version=8beb0f6c998345e7f97982502364cea4"
   },
   {
     "category": "critters",
@@ -888,7 +986,8 @@
     "hearts": null,
     "name": "Thunderwing Butterfly",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/2c/BotW_Thunderwing_Butterfly_Icon.png/40px-BotW_Thunderwing_Butterfly_Icon.png?version=db4cd5e88e3dbf0b83f8439dbeb41671"
   },
   {
     "category": "critters",
@@ -897,7 +996,8 @@
     "hearts": "2",
     "name": "Tireless Frog",
     "resale": "20",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6e/BotW_Tireless_Frog_Icon.png/40px-BotW_Tireless_Frog_Icon.png?version=e2e4dd0074653a7e7c35758f9ef7f33f"
   },
   {
     "category": "critters",
@@ -906,7 +1006,8 @@
     "hearts": null,
     "name": "Warm Darner",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/66/BotW_Warm_Darner_Icon.png/40px-BotW_Warm_Darner_Icon.png?version=1759b0c427fd91984ba0929933cdb36a"
   },
   {
     "category": "critters",
@@ -915,7 +1016,8 @@
     "hearts": null,
     "name": "Winterwing Butterfly",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/a7/BotW_Winterwing_Butterfly_Icon.png/40px-BotW_Winterwing_Butterfly_Icon.png?version=5500ea587653b9cbbd98e006c99137f8"
   },
   {
     "category": "monster parts",
@@ -924,7 +1026,8 @@
     "hearts": null,
     "name": "Bokoblin Horn",
     "resale": "3",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/d/d4/BotW_Bokoblin_Horn_Icon.png/40px-BotW_Bokoblin_Horn_Icon.png?version=1fae0f50a053dba97f80af3bf6e98711"
   },
   {
     "category": "monster parts",
@@ -933,7 +1036,8 @@
     "hearts": null,
     "name": "Bokoblin Fang",
     "resale": "8",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/fa/BotW_Bokoblin_Fang_Icon.png/40px-BotW_Bokoblin_Fang_Icon.png?version=58c16a969ad4dbdb04287d0419d52573"
   },
   {
     "category": "monster parts",
@@ -942,7 +1046,8 @@
     "hearts": null,
     "name": "Bokoblin Guts",
     "resale": "20",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/04/BotW_Bokoblin_Guts_Icon.png/40px-BotW_Bokoblin_Guts_Icon.png?version=24136f1bf97e5184318c5a650ebff5e4"
   },
   {
     "category": "monster parts",
@@ -951,7 +1056,8 @@
     "hearts": null,
     "name": "Moblin Horn",
     "resale": "5",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/04/BotW_Moblin_Horn_Icon.png/40px-BotW_Moblin_Horn_Icon.png?version=16822f5719aa7a357d06aa85f4fa0cbf"
   },
   {
     "category": "monster parts",
@@ -960,7 +1066,8 @@
     "hearts": null,
     "name": "Moblin Fang",
     "resale": "12",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/81/BotW_Moblin_Fang_Icon.png/40px-BotW_Moblin_Fang_Icon.png?version=ca0b0a754c33789fb5c180142cea38a9"
   },
   {
     "category": "monster parts",
@@ -969,7 +1076,8 @@
     "hearts": null,
     "name": "Moblin Guts",
     "resale": "25",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3a/BotW_Moblin_Guts_Icon.png/40px-BotW_Moblin_Guts_Icon.png?version=dc32e02c09d7b843aa30014f31624081"
   },
   {
     "category": "monster parts",
@@ -978,7 +1086,8 @@
     "hearts": null,
     "name": "Lizalfos Horn",
     "resale": "10",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c9/BotW_Lizalfos_Horn_Icon.png/40px-BotW_Lizalfos_Horn_Icon.png?version=1e9d441642aa2ff00f0c31fb975f059c"
   },
   {
     "category": "monster parts",
@@ -987,7 +1096,8 @@
     "hearts": null,
     "name": "Lizalfos Talon",
     "resale": "15",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/82/BotW_Lizalfos_Talon_Icon.png/40px-BotW_Lizalfos_Talon_Icon.png?version=f28b3a4cb91369881ebe6b267504d2a6"
   },
   {
     "category": "monster parts",
@@ -996,7 +1106,8 @@
     "hearts": null,
     "name": "Lizalfos Tail",
     "resale": "28",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/53/BotW_Lizalfos_Tail_Icon.png/40px-BotW_Lizalfos_Tail_Icon.png?version=b6f18cf0ae26ddf164c73974702482ef"
   },
   {
     "category": "monster parts",
@@ -1005,7 +1116,8 @@
     "hearts": null,
     "name": "Icy Lizalfos Tail",
     "resale": "35",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/98/BotW_Icy_Lizalfos_Tail_Icon.png/40px-BotW_Icy_Lizalfos_Tail_Icon.png?version=dfaa0cebbc96131d7006e290bb0c0312"
   },
   {
     "category": "monster parts",
@@ -1014,7 +1126,8 @@
     "hearts": null,
     "name": "Red Lizalfos Tail",
     "resale": "35",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/a8/BotW_Red_Lizalfos_Tail_Icon.png/40px-BotW_Red_Lizalfos_Tail_Icon.png?version=8e757ba1c17d69eb86334e06b696b80f"
   },
   {
     "category": "monster parts",
@@ -1023,7 +1136,8 @@
     "hearts": null,
     "name": "Yellow Lizalfos Tail",
     "resale": "35",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0c/BotW_Yellow_Lizalfos_Tail_Icon.png/40px-BotW_Yellow_Lizalfos_Tail_Icon.png?version=a9b1c2a15314df3ec22e7c87214a3515"
   },
   {
     "category": "monster parts",
@@ -1032,7 +1146,8 @@
     "hearts": null,
     "name": "Lynel Horn",
     "resale": "40",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/38/BotW_Lynel_Horn_Icon.png/40px-BotW_Lynel_Horn_Icon.png?version=2c4d0d387bf309ae9c97b5083e39281e"
   },
   {
     "category": "monster parts",
@@ -1041,7 +1156,8 @@
     "hearts": null,
     "name": "Lynel Hoof",
     "resale": "50",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/9e/BotW_Lynel_Hoof_Icon.png/40px-BotW_Lynel_Hoof_Icon.png?version=b5856278a825824ee88305d8760004cc"
   },
   {
     "category": "monster parts",
@@ -1050,7 +1166,8 @@
     "hearts": null,
     "name": "Lynel Guts",
     "resale": "200",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/7/7c/BotW_Lynel_Guts_Icon.png/40px-BotW_Lynel_Guts_Icon.png?version=c8f7fd7b9811dca6bda6087f2474199b"
   },
   {
     "category": "monster parts",
@@ -1059,7 +1176,8 @@
     "hearts": null,
     "name": "Chuchu Jelly",
     "resale": "5",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/89/BotW_Chuchu_Jelly_Icon.png/40px-BotW_Chuchu_Jelly_Icon.png?version=b8561d38b986a2bb30cbeeb97c875fb7"
   },
   {
     "category": "monster parts",
@@ -1068,7 +1186,8 @@
     "hearts": null,
     "name": "White Chuchu Jelly",
     "resale": "10",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/3d/BotW_White_Chuchu_Jelly_Icon.png/40px-BotW_White_Chuchu_Jelly_Icon.png?version=39b2f3d1f3eaf776c882439b7bc16a7a"
   },
   {
     "category": "monster parts",
@@ -1077,7 +1196,8 @@
     "hearts": null,
     "name": "Red Chuchu Jelly",
     "resale": "10",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/fd/BotW_Red_Chuchu_Jelly_Icon.png/40px-BotW_Red_Chuchu_Jelly_Icon.png?version=e5f17fe35cb47b2f2833db568c08bd6d"
   },
   {
     "category": "monster parts",
@@ -1086,7 +1206,8 @@
     "hearts": null,
     "name": "Yellow Chuchu Jelly",
     "resale": "10",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/97/BotW_Yellow_Chuchu_Jelly_Icon.png/40px-BotW_Yellow_Chuchu_Jelly_Icon.png?version=e6b844417af9de52fbd8e7616cfffbd3"
   },
   {
     "category": "monster parts",
@@ -1095,7 +1216,8 @@
     "hearts": null,
     "name": "Keese Wing",
     "resale": "2",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/f8/BotW_Keese_Wing_Icon.png/40px-BotW_Keese_Wing_Icon.png?version=0bea58120fb561d7658f878b7a96b6ec"
   },
   {
     "category": "monster parts",
@@ -1104,7 +1226,8 @@
     "hearts": null,
     "name": "Ice Keese Wing",
     "resale": "6",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/5/55/BotW_Ice_Keese_Wing_Icon.png/40px-BotW_Ice_Keese_Wing_Icon.png?version=703b13940004012a3c556b53bce320c4"
   },
   {
     "category": "monster parts",
@@ -1113,7 +1236,8 @@
     "hearts": null,
     "name": "Fire Keese Wing",
     "resale": "6",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/b/bf/BotW_Fire_Keese_Wing_Icon.png/40px-BotW_Fire_Keese_Wing_Icon.png?version=94a70b26d14c0cde8212bc757af363d3"
   },
   {
     "category": "monster parts",
@@ -1122,7 +1246,8 @@
     "hearts": null,
     "name": "Electric Keese Wing",
     "resale": "6",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/37/BotW_Electric_Keese_Wing_Icon.png/40px-BotW_Electric_Keese_Wing_Icon.png?version=e0a94871f9837dc2aa628c23a5283974"
   },
   {
     "category": "monster parts",
@@ -1131,7 +1256,8 @@
     "hearts": null,
     "name": "Keese Eyeball",
     "resale": "20",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/f/f2/BotW_Keese_Eyeball_Icon.png/40px-BotW_Keese_Eyeball_Icon.png?version=5d3e233071b8df31e4ba0a5f0ee700f1"
   },
   {
     "category": "monster parts",
@@ -1140,7 +1266,8 @@
     "hearts": null,
     "name": "Octorok Tentacle",
     "resale": "10",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/33/BotW_Octorok_Tentacle_Icon.png/40px-BotW_Octorok_Tentacle_Icon.png?version=f6d02e26d0a9fc02ada87194d713954a"
   },
   {
     "category": "monster parts",
@@ -1149,7 +1276,8 @@
     "hearts": null,
     "name": "Octorok Eyeball",
     "resale": "25",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/42/BotW_Octorok_Eyeball_Icon.png/40px-BotW_Octorok_Eyeball_Icon.png?version=d4b1a5a357f8dae6a68881df05436b84"
   },
   {
     "category": "monster parts",
@@ -1158,7 +1286,8 @@
     "hearts": null,
     "name": "Octo Balloon",
     "resale": "5",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/0e/BotW_Octo_Balloon_Icon.png/40px-BotW_Octo_Balloon_Icon.png?version=8eebe6d87dcda11d278304aec73bca04"
   },
   {
     "category": "monster parts",
@@ -1167,7 +1296,8 @@
     "hearts": null,
     "name": "Hinox Toenail",
     "resale": "20",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/1/11/BotW_Hinox_Toenail_Icon.png/40px-BotW_Hinox_Toenail_Icon.png?version=f68303a2829db93144b09b27c6048a1e"
   },
   {
     "category": "monster parts",
@@ -1176,7 +1306,8 @@
     "hearts": null,
     "name": "Hinox Tooth",
     "resale": "35",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/2/29/BotW_Hinox_Tooth_Icon.png/40px-BotW_Hinox_Tooth_Icon.png?version=23b115995079db19b80294ffc16d636c"
   },
   {
     "category": "monster parts",
@@ -1185,7 +1316,8 @@
     "hearts": null,
     "name": "Hinox Guts",
     "resale": "80",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/6f/BotW_Hinox_Guts_Icon.png/40px-BotW_Hinox_Guts_Icon.png?version=7aeb12b48ee0706e82332810c31bff44"
   },
   {
     "category": "monster parts",
@@ -1194,7 +1326,8 @@
     "hearts": null,
     "name": "Molduga Fin",
     "resale": "30",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/82/BotW_Molduga_Fin_Icon.png/40px-BotW_Molduga_Fin_Icon.png?version=518dad94c4d5be42856f797a98821539"
   },
   {
     "category": "monster parts",
@@ -1203,7 +1336,8 @@
     "hearts": null,
     "name": "Molduga Guts",
     "resale": "110",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/a/ae/BotW_Molduga_Guts_Icon.png/40px-BotW_Molduga_Guts_Icon.png?version=610e0faeb6fefc4f13a313708ef391a3"
   },
   {
     "category": "monster parts",
@@ -1212,7 +1346,8 @@
     "hearts": null,
     "name": "Ancient Screw",
     "resale": "12",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/0/00/BotW_Ancient_Screw_Icon.png/40px-BotW_Ancient_Screw_Icon.png?version=26eca46f86e58108127eb1e134208093"
   },
   {
     "category": "monster parts",
@@ -1221,7 +1356,8 @@
     "hearts": null,
     "name": "Ancient Spring",
     "resale": "15",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/cc/BotW_Ancient_Spring_Icon.png/40px-BotW_Ancient_Spring_Icon.png?version=b84b6cc090972f951a487db7ef5b00f3"
   },
   {
     "category": "monster parts",
@@ -1230,7 +1366,8 @@
     "hearts": null,
     "name": "Ancient Gear",
     "resale": "30",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c9/BotW_Ancient_Gear_Icon.png/40px-BotW_Ancient_Gear_Icon.png?version=21a3f6e2dab2c2bfd483e350547019e9"
   },
   {
     "category": "monster parts",
@@ -1239,7 +1376,8 @@
     "hearts": null,
     "name": "Ancient Shaft",
     "resale": "40",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/8/81/BotW_Ancient_Shaft_Icon.png/40px-BotW_Ancient_Shaft_Icon.png?version=10620888550273c2b3a134f8e742db00"
   },
   {
     "category": "monster parts",
@@ -1248,7 +1386,8 @@
     "hearts": null,
     "name": "Ancient Core",
     "resale": "80",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/69/BotW_Ancient_Core_Icon.png/40px-BotW_Ancient_Core_Icon.png?version=81c976eb0fbbab73782f887bc06eb1d0"
   },
   {
     "category": "monster parts",
@@ -1257,6 +1396,7 @@
     "hearts": null,
     "name": "Giant Ancient Core",
     "resale": "200",
-    "type": null
+    "type": null,
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/6/62/BotW_Giant_Ancient_Core_Icon.png/40px-BotW_Giant_Ancient_Core_Icon.png?version=294901a2e605b6d0a118ee9344478f0e"
   }
 ]
