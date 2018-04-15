@@ -12,14 +12,18 @@ const jwt = require('jsonwebtoken');
 chai.use(chaiHttp);
 
 describe('API routes', () => {
-  const token = jwt.sign({ userName: 'ganondorf', password: 'getTheTriforce' }, process.env.KEY);
+  const token = jwt.sign(
+    { userName: 'ganondorf', password: 'getTheTriforce' },
+    process.env.KEY
+  );
 
-  beforeEach((done) => {
+  beforeEach(done => {
     database.migrate.rollback().then(() => {
       database.migrate.latest().then(() =>
         database.seed.run().then(() => {
           done();
-        }));
+        })
+      );
     });
   });
 
@@ -27,10 +31,10 @@ describe('API routes', () => {
     chai
       .request(server)
       .get('/mario')
-      .then((response) => {
+      .then(response => {
         response.should.have.status(404);
       })
-      .catch((err) => {
+      .catch(err => {
         throw err;
       }));
 
@@ -40,7 +44,7 @@ describe('API routes', () => {
         chai
           .request(server)
           .get('/api/v1/ingredients')
-          .then((response) => {
+          .then(response => {
             response.should.have.status(200);
             response.should.be.json;
             response.body.should.be.a('array');
@@ -67,12 +71,12 @@ describe('API routes', () => {
             response.body[0].type.should.equal('Fruit');
 
             response.body[0].should.have.property('image');
-            response.body[0].image.should.equal('www.applepics.com') 
+            response.body[0].image.should.equal('www.applepics.com');
 
             response.body[0].should.have.property('created_at');
             response.body[0].should.have.property('updated_at');
           })
-          .catch((err) => {
+          .catch(err => {
             throw err;
           }));
     });
@@ -82,7 +86,7 @@ describe('API routes', () => {
         chai
           .request(server)
           .get('/api/v1/ingredients/1')
-          .then((response) => {
+          .then(response => {
             response.should.have.status(200);
             response.body.should.be.a('array');
             response.body[0].id.should.equal(1);
@@ -99,9 +103,11 @@ describe('API routes', () => {
         chai
           .request(server)
           .get('/api/v1/ingredients/26')
-          .then((response) => {
+          .then(response => {
             response.should.have.status(404);
-            response.body.error.should.equal('Could not find ingredient with id 26');
+            response.body.error.should.equal(
+              'Could not find ingredient with id 26'
+            );
           }));
     });
 
@@ -110,7 +116,7 @@ describe('API routes', () => {
         chai
           .request(server)
           .get('/api/v1/recipes')
-          .then((response) => {
+          .then(response => {
             response.body.length.should.equal(3);
 
             response.should.have.status(200);
@@ -127,7 +133,9 @@ describe('API routes', () => {
             response.body[0].hearts.should.equal('3');
 
             response.body[0].should.have.property('notes');
-            response.body[0].notes.should.equal('Tabantha Wheat, Cane Sugar & Goat Butter obtainable in Rito Village.');
+            response.body[0].notes.should.equal(
+              'Tabantha Wheat, Cane Sugar & Goat Butter obtainable in Rito Village.'
+            );
 
             response.body[0].should.have.property('resale');
             response.body[0].resale.should.equal('30');
@@ -147,8 +155,6 @@ describe('API routes', () => {
             response.body[0].should.have.property('ingredient4');
             response.body[0].ingredient4.should.equal('Goat Butter');
 
-            response.body[0].should.have.property('ingredient5');
-
             response.body[0].should.have.property('ingredient1_id');
             response.body[0].ingredient1_id.should.equal(1);
             response.body[0].should.have.property('ingredient2_id');
@@ -158,11 +164,13 @@ describe('API routes', () => {
             response.body[0].should.have.property('ingredient4_id');
             response.body[0].ingredient4_id.should.equal(4);
             response.body[0].should.have.property('ingredient5_id');
+            response.body[0].should.have.property('image');
+            response.body[0].image.should.equal('www.image.com');
 
             response.body[0].should.have.property('created_at');
             response.body[0].should.have.property('updated_at');
           })
-          .catch((err) => {
+          .catch(err => {
             throw err;
           }));
 
@@ -170,7 +178,7 @@ describe('API routes', () => {
         chai
           .request(server)
           .get('/api/v1/recipes?type=Movement%20Speed')
-          .then((response) => {
+          .then(response => {
             response.body.length.should.equal(1);
             response.should.have.status(200);
             response.should.be.json;
@@ -201,6 +209,8 @@ describe('API routes', () => {
             response.body[0].should.have.property('ingredient5_id');
             response.body[0].should.have.property('created_at');
             response.body[0].should.have.property('updated_at');
+            response.body[0].should.have.property('image');
+            response.body[0].image.should.equal('www.image.com');
           }));
     });
 
@@ -209,7 +219,7 @@ describe('API routes', () => {
         chai
           .request(server)
           .get('/api/v1/recipes/1')
-          .then((response) => {
+          .then(response => {
             response.body.length.should.equal(1);
 
             response.should.have.status(200);
@@ -226,7 +236,9 @@ describe('API routes', () => {
             response.body[0].hearts.should.equal('3');
 
             response.body[0].should.have.property('notes');
-            response.body[0].notes.should.equal('Tabantha Wheat, Cane Sugar & Goat Butter obtainable in Rito Village.');
+            response.body[0].notes.should.equal(
+              'Tabantha Wheat, Cane Sugar & Goat Butter obtainable in Rito Village.'
+            );
 
             response.body[0].should.have.property('resale');
             response.body[0].resale.should.equal('30');
@@ -257,6 +269,8 @@ describe('API routes', () => {
             response.body[0].should.have.property('ingredient4_id');
             response.body[0].ingredient4_id.should.equal(4);
             response.body[0].should.have.property('ingredient5_id');
+            response.body[0].should.have.property('image');
+            response.body[0].image.should.equal('www.image.com');
 
             response.body[0].should.have.property('created_at');
             response.body[0].should.have.property('updated_at');
@@ -266,9 +280,11 @@ describe('API routes', () => {
         chai
           .request(server)
           .get('/api/v1/recipes/19')
-          .then((response) => {
+          .then(response => {
             response.should.have.status(404);
-            response.body.error.should.equal('Could not find recipe with id 19');
+            response.body.error.should.equal(
+              'Could not find recipe with id 19'
+            );
           }));
     });
 
@@ -278,7 +294,7 @@ describe('API routes', () => {
           .request(server)
           .get('/api/v1/users/1')
           .send({ token })
-          .then((response) => {
+          .then(response => {
             response.body.length.should.equal(1);
             response.should.have.status(200);
             response.should.be.json;
@@ -302,7 +318,7 @@ describe('API routes', () => {
           .request(server)
           .get('/api/v1/users/79')
           .send({ token })
-          .then((response) => {
+          .then(response => {
             response.should.have.status(404);
             response.body.error.should.equal('Could not find user with id 79');
           }));
@@ -317,14 +333,14 @@ describe('API routes', () => {
           .post('/api/v1/authenticate')
           .send({
             userName: 'ganondorf',
-            password: 'getTheTriforce',
+            password: 'getTheTriforce'
           })
-          .then((response) => {
+          .then(response => {
             response.should.have.status(201);
             response.body.should.be.a('object');
             response.body.token.should.a('string');
           })
-          .catch((err) => {
+          .catch(err => {
             throw err;
           }));
 
@@ -333,15 +349,15 @@ describe('API routes', () => {
           .request(server)
           .post('/api/v1/authenticate')
           .send({
-            userName: 'ganondorf',
+            userName: 'ganondorf'
           })
-          .then((response) => {
+          .then(response => {
             response.should.have.status(422);
             response.body.should.be.a('object');
             response.body.should.have.property('error');
             response.body.error.should.equal('Invalid password or user name');
           })
-          .catch((err) => {
+          .catch(err => {
             throw err;
           }));
     });
@@ -354,14 +370,14 @@ describe('API routes', () => {
           .send({
             userName: 'link',
             password: 'saveThePrincess',
-            token,
+            token
           })
-          .then((response) => {
+          .then(response => {
             response.should.have.status(201);
             response.body.should.be.a('object');
             response.body.id.should.equal(2);
           })
-          .catch((err) => {
+          .catch(err => {
             throw err;
           }));
 
@@ -371,12 +387,14 @@ describe('API routes', () => {
           .post('/api/v1/users')
           .send({
             userName: 'link',
-            token,
+            token
           })
-          .then((response) => {
+          .then(response => {
             response.should.have.status(422);
             response.body.should.have.property('error');
-            response.body.error.should.equal('Error you are missing password property');
+            response.body.error.should.equal(
+              'Error you are missing password property'
+            );
           }));
 
       it('should not create a user without a token', () =>
@@ -385,12 +403,14 @@ describe('API routes', () => {
           .post('/api/v1/users')
           .send({
             userName: 'link',
-            password: 'saveThePrincess',
+            password: 'saveThePrincess'
           })
-          .then((response) => {
+          .then(response => {
             response.should.have.status(403);
             response.body.should.have.property('error');
-            response.body.error.should.equal('You must be authorized to access this endpoint.');
+            response.body.error.should.equal(
+              'You must be authorized to access this endpoint.'
+            );
           }));
     });
   });
