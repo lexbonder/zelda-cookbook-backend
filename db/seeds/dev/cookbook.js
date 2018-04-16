@@ -16,6 +16,7 @@ exports.seed = (knex, Promise) => {
             recipes.map(recipe => {
               let multipliers = ['x2', 'x3', 'x4', 'x5']
               let ingredientIds = {}
+              let ingredientImages = {}
 
               for (let i = 1; i <= 5; i++) {
                 if (recipe[`ingredient${i}`]) {
@@ -27,11 +28,13 @@ exports.seed = (knex, Promise) => {
                     ingredientIds[`ingredient${i}_id`] = knex('ingredients')
                       .where('name', ingName || recipe[`ingredient${i}`])
                       .select('id')
+                    ingredientImages[`ingredient${i}_image`] = knex('ingredients')
+                      .where('name', ingName || recipe[`ingredient${i}`])
+                      .select('image')
                   })
-                  
-                } 
+                }
               }
-              return {...recipe, ...ingredientIds}
+              return {...recipe, ...ingredientIds, ...ingredientImages}
             })
           )
         })

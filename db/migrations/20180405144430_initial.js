@@ -28,6 +28,11 @@ exports.up = function (knex, Promise) {
       table.string('ingredient4');
       table.string('ingredient5');
       table.string('image');
+      table.string('ingredient1_image');
+      table.string('ingredient2_image');
+      table.string('ingredient3_image');
+      table.string('ingredient4_image');
+      table.string('ingredient5_image');
       table.integer('ingredient1_id');
       table.foreign('ingredient1_id').references('ingredients.id');
       table.integer('ingredient2_id');
