@@ -28,6 +28,7 @@ exports.up = function (knex, Promise) {
       table.string('ingredient4');
       table.string('ingredient5');
       table.string('image');
+      table.string('type_image');
       table.string('ingredient1_image');
       table.string('ingredient2_image');
       table.string('ingredient3_image');
