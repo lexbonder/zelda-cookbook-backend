@@ -145,15 +145,25 @@ describe('API routes', () => {
 
             response.body[0].should.have.property('ingredient1');
             response.body[0].ingredient1.should.equal('Apple');
-
             response.body[0].should.have.property('ingredient2');
             response.body[0].ingredient2.should.equal('Tabantha Wheat');
-
             response.body[0].should.have.property('ingredient3');
             response.body[0].ingredient3.should.equal('Cane Sugar');
-
             response.body[0].should.have.property('ingredient4');
             response.body[0].ingredient4.should.equal('Goat Butter');
+            
+            response.body[0].should.have.property('image');
+            response.body[0].image.should.equal('www.image.com');
+
+            response.body[0].should.have.property('ingredient1_image')
+            response.body[0].ingredient1_image.should.equal('https://image-link1')
+            response.body[0].should.have.property('ingredient2_image')
+            response.body[0].ingredient2_image.should.equal('https://image-link2')
+            response.body[0].should.have.property('ingredient3_image')
+            response.body[0].ingredient3_image.should.equal('https://image-link3')
+            response.body[0].should.have.property('ingredient4_image')
+            response.body[0].ingredient4_image.should.equal('https://image-link4')
+            response.body[0].should.have.property('ingredient5_image')
 
             response.body[0].should.have.property('ingredient1_id');
             response.body[0].ingredient1_id.should.equal(1);
@@ -164,8 +174,7 @@ describe('API routes', () => {
             response.body[0].should.have.property('ingredient4_id');
             response.body[0].ingredient4_id.should.equal(4);
             response.body[0].should.have.property('ingredient5_id');
-            response.body[0].should.have.property('image');
-            response.body[0].image.should.equal('www.image.com');
+
 
             response.body[0].should.have.property('created_at');
             response.body[0].should.have.property('updated_at');
@@ -269,8 +278,19 @@ describe('API routes', () => {
             response.body[0].should.have.property('ingredient4_id');
             response.body[0].ingredient4_id.should.equal(4);
             response.body[0].should.have.property('ingredient5_id');
+
             response.body[0].should.have.property('image');
             response.body[0].image.should.equal('www.image.com');
+
+            response.body[0].should.have.property('ingredient1_image')
+            response.body[0].ingredient1_image.should.equal('https://image-link1')
+            response.body[0].should.have.property('ingredient2_image')
+            response.body[0].ingredient2_image.should.equal('https://image-link2')
+            response.body[0].should.have.property('ingredient3_image')
+            response.body[0].ingredient3_image.should.equal('https://image-link3')
+            response.body[0].should.have.property('ingredient4_image')
+            response.body[0].ingredient4_image.should.equal('https://image-link4')
+            response.body[0].should.have.property('ingredient5_image')
 
             response.body[0].should.have.property('created_at');
             response.body[0].should.have.property('updated_at');
