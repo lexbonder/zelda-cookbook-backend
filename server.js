@@ -1,5 +1,4 @@
 const express = require('express');
-
 const app = express();
 const environment = process.env.NODE_ENV || 'development';
 const configuration = require('./knexfile')[environment];
@@ -10,6 +9,8 @@ const jwt = require('jsonwebtoken');
 process.env.KEY = 'ocarinaOfTime';
 
 app.use(bodyParser.json());
+
+app.use(express.static('public'));
 
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
@@ -176,7 +177,6 @@ app.post('/api/v1/authenticate', (request, response) => {
     }
   }
 
-  // how do we check users in database?
   if (password && userName) {
     const token = jwt.sign(body, process.env.KEY);
 
